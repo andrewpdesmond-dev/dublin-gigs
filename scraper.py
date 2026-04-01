@@ -1,55 +1,72 @@
 import json
-from scrapers import ticketmaster, castle_hotel, nialler9
+# Import all your workers
+from scrapers import ticketmaster, castle_hotel, nialler9, eventbrite
 
 # Replace with your actual key
 TM_KEY = "V7HypVGyprpKkeRrOV3WMO1B6NqMgEpH"
 
 def deduplicate_gigs(gigs):
-    """Removes duplicate entries based on Act and Date."""
+    """
+    Cleans the list by removing duplicates.
+    It looks at the Date and a 'Cleaned' version of the Artist name.
+    """
     unique_gigs = []
-    seen = set() # A 'set' is a fast way to track unique items
+    seen_fingerprints = set()
     
+    print(f"Master: Starting deduplication on {len(gigs)} raw entries...")
+
     for gig in gigs:
-        # We create a unique "fingerprint" for each gig (e.g., "2026-04-15|Hozier")
-        # We lowercase everything to make sure "Hozier" and "hozier" match
-        fingerprint = f"{gig['date']}|{gig['act'].lower().strip()}"
+        # 1. Clean the name: lowercase, remove "The ", and strip whitespace
+        # This ensures "The Wolfe Tones" and "Wolfe Tones" are seen as the same
+        clean_act = gig['act'].lower().replace("the ", "").strip()
         
-        if fingerprint not in seen:
+        # 2. Create a unique fingerprint (Date + Cleaned Act)
+        fingerprint = f"{gig['date']}|{clean_act}"
+        
+        if fingerprint not in seen_fingerprints:
             unique_gigs.append(gig)
-            seen.add(fingerprint)
+            seen_fingerprints.add(fingerprint)
         else:
-            print(f"Master: Removing duplicate found for {gig['act']} on {gig['date']}")
+            # This is a duplicate, we skip it
+            continue
             
     return unique_gigs
 
 def main():
     all_gigs = []
     
-    # 1. Collect from Ticketmaster
+    # --- 1. DATA COLLECTION PHASE ---
+    
+    print("--- 1/4: Fetching Ticketmaster ---")
     try:
         all_gigs.extend(ticketmaster.get_data(TM_KEY))
-    except Exception as e: print(f"TM Error: {e}")
+    except Exception as e: print(f"Ticketmaster Error: {e}")
 
-    # 2. Collect from Castle Hotel
+    print("--- 2/4: Fetching Eventbrite ---")
+    try:
+        all_gigs.extend(eventbrite.get_data())
+    except Exception as e: print(f"Eventbrite Error: {e}")
+
+    print("--- 3/4: Fetching Castle Hotel ---")
     try:
         all_gigs.extend(castle_hotel.get_data())
     except Exception as e: print(f"Castle Hotel Error: {e}")
 
-    # 3. Collect from Nialler9
+    print("--- 4/4: Fetching Nialler9 ---")
     try:
         all_gigs.extend(nialler9.get_data())
     except Exception as e: print(f"Nialler9 Error: {e}")
+
+    # --- 2. CLEANING PHASE ---
     
-    # --- THE DE-DUPLICATOR ---
-    print(f"Total raw gigs found: {len(all_gigs)}")
-    clean_list = deduplicate_gigs(all_gigs)
-    print(f"Final clean count: {len(clean_list)}")
+    final_list = deduplicate_gigs(all_gigs)
     
-    # 4. Save the finalized, clean list
+    # --- 3. STORAGE PHASE ---
+    
     with open('gigs.json', 'w') as f:
-        json.dump(clean_list, f, indent=4)
+        json.dump(final_list, f, indent=4)
         
-    print("--- Pipeline complete. Data is clean and saved! ---")
+    print(f"SUCCESS: {len(final_list)} unique gigs saved to gigs.json")
 
 if __name__ == "__main__":
     main()
