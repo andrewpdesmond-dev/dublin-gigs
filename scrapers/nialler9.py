@@ -1,53 +1,40 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime
 
 def get_data():
     print("Worker: Fetching Nialler9...")
-    url = "https://nialler9.com/gig-guide/"
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    # We try the main guide first
+    base_url = "https://nialler9.com/gig-guide/"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     gigs = []
     
     try:
-        response = requests.get(url, headers=headers, timeout=15)
+        response = requests.get(base_url, headers=headers, timeout=15)
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Look for the main article content where the gigs live
-        content = soup.find('div', class_='entry-content') or soup.find('article')
+        # Look for list items with the '@' symbol
+        items = soup.find_all('li')
         
-        if not content:
-            print("Nialler9: Could not find main content area.")
-            return []
-
-        # Nialler9 lists usually follow a 'Day' heading. 
-        # We look for <li> tags that contain '@' (The Band @ Venue format)
-        items = content.find_all('li')
-        
-        current_date = datetime.now().strftime("%Y-%m-%d")
-
         for item in items:
             text = item.get_text().strip()
-            
-            # Check for the signature "@" symbol used in his guide
-            if "@" in text and len(text) < 120:
-                # Split "Artist @ Venue"
+            if "@" in text and len(text) < 100:
                 parts = text.split("@")
-                act = parts[0].strip()
-                
-                # Handle venue and potential price in brackets: "Venue (Price)"
-                venue_raw = parts[1].split("(")[0].strip()
-                
                 gigs.append({
-                    "date": current_date, # Nialler9 is a weekly guide; we'll tag as 'current'
-                    "act": act,
-                    "venue": venue_raw,
+                    "date": datetime.now().strftime("%Y-%m-%d"),
+                    "act": parts[0].strip(),
+                    "venue": parts[1].split("(")[0].strip(),
                     "genre": "Indie/Alt",
                     "price": "See Nialler9",
                     "status": "Check Site"
                 })
+        
+        if not gigs:
+            print("Nialler9: Found 0 gigs. He might have moved the guide to a new URL.")
+        else:
+            print(f"Nialler9: Successfully found {len(gigs)} gigs!")
 
-        print(f"Nialler9 Worker: Found {len(gigs)} potential gigs.")
     except Exception as e:
-        print(f"Nialler9 Worker Error: {e}")
+        print(f"Nialler9 Error: {e}")
         
     return gigs
