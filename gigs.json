@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2026-04-12",
+        "act": "Fontaines D.C.",
+        "venue": "Vicar Street",
+        "genre": "Post-Punk",
+        "price": "\u20ac45.00",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-04-15",
+        "act": "Hozier",
+        "venue": "3Arena",
+        "genre": "Indie Rock",
+        "price": "\u20ac60.00",
+        "status": "Available"
+    }
+]
