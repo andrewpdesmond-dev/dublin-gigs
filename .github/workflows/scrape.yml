@@ -1,0 +1,37 @@
+name: Scrape Dublin Gigs
+
+# This tells GitHub WHEN to run the script
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs every day at 4 AM
+  workflow_dispatch: # Adds a button so you can run it manually anytime
+
+# Grant permission to save the updated gigs.json file
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and push new data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gigs.json
+          # Only commit if there are changes to prevent errors
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update gigs data" && git push)
