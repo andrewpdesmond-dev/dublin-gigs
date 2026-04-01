@@ -4,7 +4,7 @@ from datetime import datetime
 
 # --- CONFIGURATION ---
 # Get your free key at https://developer.ticketmaster.com/
-TM_API_KEY = V7HypVGyprpKkeRrOV3WMO1B6NqMgEpH 
+TM_API_KEY = "V7HypVGyprpKkeRrOV3WMO1B6NqMgEpH"
 
 def fetch_ticketmaster_gigs():
     """Pulls real concert data for Dublin from Ticketmaster."""
