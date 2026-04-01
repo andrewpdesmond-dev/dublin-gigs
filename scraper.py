@@ -2,7 +2,7 @@ import json
 from scrapers import ticketmaster, castle_hotel, nialler9, eventbrite, entertainment, goldenplec
 
 # Use your actual key here
-TM_KEY = "YOUR_API_KEY_HERE"
+TM_KEY = "V7HypVGyprpKkeRrOV3WMO1B6NqMgEpH"
 
 def deduplicate_gigs(gigs):
     unique_gigs = []
