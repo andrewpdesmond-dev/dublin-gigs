@@ -1,59 +1,65 @@
 import requests
 import json
-from datetime import datetime
 
 # --- CONFIGURATION ---
-# Get your free key at https://developer.ticketmaster.com/
-TM_API_KEY = "V7HypVGyprpKkeRrOV3WMO1B6NqMgEpH"
+# Replace the text inside the quotes with your actual Consumer Key
+TM_API_KEY = "V7HypVGyprpKkeRrOV3WMO1B6NqMgEpH" 
 
-def fetch_ticketmaster_gigs():
-    """Pulls real concert data for Dublin from Ticketmaster."""
+def main():
+    print("Starting Ticketmaster fetch for Dublin...")
     url = "https://app.ticketmaster.com/discovery/v2/events.json"
+    
+    # We ask for Music in Dublin, sorted by date
     params = {
         "apikey": TM_API_KEY,
         "city": "Dublin",
         "classificationName": "music",
-        "size": 100, # Number of gigs to pull
+        "size": 100,
         "sort": "date,asc"
     }
     
     try:
         response = requests.get(url, params=params)
+        response.raise_for_status() # This will error if your API key is wrong
         data = response.json()
+        
+        # Dig into the Ticketmaster data structure
         events = data.get('_embedded', {}).get('events', [])
         
-        gigs = []
+        processed_gigs = []
         for event in events:
-            # Extract the info we need for our table
-            venue_info = event.get('_embedded', {}).get('venues', [{}])[0]
-            status_info = event.get('dates', {}).get('status', {}).get('code', 'N/A')
+            # Extract venue name
+            venues = event.get('_embedded', {}).get('venues', [{}])
+            venue_name = venues[0].get('name', 'Dublin Venue')
             
-            # Map Ticketmaster status to our labels
-            status = "Available" if status_info == "onsale" else "Sold Out"
-            if status_info == "offsale": status = "N/A"
+            # Extract genre
+            classifications = event.get('classifications', [{}])
+            genre = classifications[0].get('genre', {}).get('name', 'Music')
+            
+            # Extract status
+            status_code = event.get('dates', {}).get('status', {}).get('code', 'onsale')
+            status_text = "Available" if status_code == "onsale" else "Sold Out"
 
-            gigs.append({
+            processed_gigs.append({
                 "date": event['dates']['start']['localDate'],
                 "act": event['name'],
-                "venue": venue_info.get('name', 'Unknown Venue'),
-                "genre": event.get('classifications', [{}])[0].get('genre', {}).get('name', 'Music'),
-                "price": "Check Site", # Ticketmaster prices vary wildly/are hard to scrape
-                "status": status
+                "venue": venue_name,
+                "genre": genre,
+                "price": "Check Ticketmaster",
+                "status": status_text
             })
-        return gigs
-    except Exception as e:
-        print(f"Error fetching from Ticketmaster: {e}")
-        return []
-
-def main():
-    print("Starting Dublin Gig Update...")
-    all_gigs = fetch_ticketmaster_gigs()
-    
-    # Save the real data
-    with open('gigs.json', 'w') as f:
-        json.dump(all_gigs, f, indent=4)
         
-    print(f"Success! Found {len(all_gigs)} real gigs in Dublin.")
+        # Save the new data
+        with open('gigs.json', 'w') as f:
+            json.dump(processed_gigs, f, indent=4)
+        
+        print(f"Success! Found {len(processed_gigs)} gigs.")
+
+    except Exception as e:
+        print(f"FAILED to fetch data. Error: {e}")
+        # If it fails, we'll keep the file empty so we know it's not working
+        with open('gigs.json', 'w') as f:
+            json.dump([], f)
 
 if __name__ == "__main__":
     main()
