@@ -4,18 +4,28 @@ from datetime import datetime
 
 def get_data():
     print("Worker: Fetching Nialler9...")
-    # We try the main guide first
-    base_url = "https://nialler9.com/gig-guide/"
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    headers = {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1'}
     gigs = []
     
     try:
-        response = requests.get(base_url, headers=headers, timeout=15)
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # Step 1: Find the CURRENT gig guide link from the homepage
+        home_res = requests.get("https://nialler9.com/category/gigs-festivals/dublin-gig-guide/", headers=headers, timeout=10)
+        home_soup = BeautifulSoup(home_res.text, 'html.parser')
         
-        # Look for list items with the '@' symbol
+        # Find the first article link
+        first_article = home_soup.find('h2', class_='entry-title')
+        if not first_article: 
+            first_article = home_soup.find('article') # Fallback
+            
+        target_url = first_article.find('a')['href']
+        print(f"Nialler9: Target found -> {target_url}")
+
+        # Step 2: Scrape that specific page
+        res = requests.get(target_url, headers=headers, timeout=10)
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        # Look for the <li> list items that have '@'
         items = soup.find_all('li')
-        
         for item in items:
             text = item.get_text().strip()
             if "@" in text and len(text) < 100:
@@ -28,12 +38,7 @@ def get_data():
                     "price": "See Nialler9",
                     "status": "Check Site"
                 })
-        
-        if not gigs:
-            print("Nialler9: Found 0 gigs. He might have moved the guide to a new URL.")
-        else:
-            print(f"Nialler9: Successfully found {len(gigs)} gigs!")
-
+        print(f"Nialler9: Found {len(gigs)} gigs.")
     except Exception as e:
         print(f"Nialler9 Error: {e}")
         
