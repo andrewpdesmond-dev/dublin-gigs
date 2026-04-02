@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-04-01",
-        "act": "Gorillaz - the Mountain Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-04-02",
         "act": "Gorillaz - the Mountain Tour",
         "venue": "3Arena",
@@ -388,6 +380,14 @@
         "act": "Freddie Gibbs",
         "venue": "Vicar Street",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-14",
+        "act": "Rick Astley: The Reflection Tour 2026",
+        "venue": "3Arena",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
