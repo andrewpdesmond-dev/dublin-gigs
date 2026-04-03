@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-04-02",
-        "act": "Gorillaz - the Mountain Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-02",
-        "act": "Mark McCabe",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-02",
-        "act": "Dani Larkin",
-        "venue": "The Grand Social",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-03",
         "act": "Chewie - Really Good Friday",
         "venue": "Whelans",
@@ -388,6 +364,30 @@
         "act": "Rick Astley: The Reflection Tour 2026",
         "venue": "3Arena",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-14",
+        "act": "Maggie Lindemann",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-14",
+        "act": "Pete McCredie",
+        "venue": "The Grand Social",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-04-14",
+        "act": "Niamh McCrystal",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
