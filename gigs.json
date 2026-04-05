@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-04-04",
-        "act": "Survivalist",
-        "venue": "The Sound House",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-04",
-        "act": "Belle & Sebastian - Performing Tigermilk + Favourites",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-04",
-        "act": "Thundercat",
-        "venue": "Vicar Street",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-04-05",
         "act": "Belle & Sebastian - Performing If You're Feeling Sinister + Favourites",
         "venue": "3Olympia Theatre",
@@ -49,6 +25,14 @@
     },
     {
         "date": "2026-04-07",
+        "act": "Francis Rossi",
+        "venue": "Ambassador Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-07",
         "act": "Mike Joyce",
         "venue": "The Sugar Club",
         "genre": "Rock",
@@ -68,14 +52,6 @@
         "act": "J.I.D - God Does Like World Tours",
         "venue": "3Olympia Theatre",
         "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-07",
-        "act": "Francis Rossi",
-        "venue": "Ambassador Theatre",
-        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     },
@@ -390,5 +366,29 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-04-15",
+        "act": "David Keenan",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-16",
+        "act": "Marcus Magee & The Hollaw @ The Workman's Club",
+        "venue": "The Workmans Club",
+        "genre": "Alternative",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-17",
+        "act": "Cooper Alan - To The Pub Tour",
+        "venue": "The Academy",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
