@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-04-05",
-        "act": "Belle & Sebastian - Performing If You're Feeling Sinister + Favourites",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-05",
-        "act": "Searows",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-06",
         "act": "Leigh-Anne",
         "venue": "The Academy",
@@ -388,6 +372,22 @@
         "act": "Cooper Alan - To The Pub Tour",
         "venue": "The Academy",
         "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-17",
+        "act": "Madra Salach",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-17",
+        "act": "How I Became A Wave",
+        "venue": "The Unitarian Church",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
