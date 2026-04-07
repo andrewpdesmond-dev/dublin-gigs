@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-04-06",
-        "act": "Leigh-Anne",
-        "venue": "The Academy",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-07",
         "act": "Francis Rossi",
         "venue": "Ambassador Theatre",
@@ -388,6 +380,14 @@
         "act": "How I Became A Wave",
         "venue": "The Unitarian Church",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-17",
+        "act": "Dry Cleaning",
+        "venue": "Vicar Street",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
