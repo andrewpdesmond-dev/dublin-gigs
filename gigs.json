@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-04-07",
-        "act": "Francis Rossi",
-        "venue": "Ambassador Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-07",
-        "act": "Mike Joyce",
-        "venue": "The Sugar Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-07",
-        "act": "The Guest List",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-07",
-        "act": "J.I.D - God Does Like World Tours",
-        "venue": "3Olympia Theatre",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-07",
-        "act": "Clara La San",
-        "venue": "Opium",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-08",
         "act": "Florence Black",
         "venue": "Whelans",
@@ -388,6 +348,46 @@
         "act": "Dry Cleaning",
         "venue": "Vicar Street",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-17",
+        "act": "better joy",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-17",
+        "act": "Mundy - Swords - April 17",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-18",
+        "act": "The Garth Brooks Experience",
+        "venue": "Academy 2",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-18",
+        "act": "Sleeper",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-04-18",
+        "act": "Madra Salach",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
