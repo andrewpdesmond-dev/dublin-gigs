@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-04-09",
-        "act": "Full of Hell",
-        "venue": "Opium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-09",
-        "act": "Nothing",
-        "venue": "The Sound House",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-09",
-        "act": "The Bros. Landreth: the Tumbling Wild Tour",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-09",
-        "act": "Michael McGovern",
-        "venue": "The Grand Social",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-09",
-        "act": "Dan McCabe with Guest Gearoid McCarthy",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-10",
         "act": "Dominguinho",
         "venue": "The Academy",
@@ -388,6 +348,46 @@
         "act": "Lisa Hannigan - at Abbey Tavern, Howth Dublin.",
         "venue": "Abbey Tavern",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-19",
+        "act": "Christy: a Concert In Support of Women's Aid",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-04-19",
+        "act": "Tori Amos - In Times of Dragons Tour",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-19",
+        "act": "james K",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-20",
+        "act": "Tucker Wetmore",
+        "venue": "The Academy",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-20",
+        "act": "Skye Newman",
+        "venue": "3Olympia Theatre",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
