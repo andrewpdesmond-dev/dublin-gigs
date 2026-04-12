@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-04-11",
-        "act": "Dominguinho",
-        "venue": "The Academy",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Blackbraid",
-        "venue": "Opium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Slipknowt",
-        "venue": "Academy 2",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Marlon Williams",
-        "venue": "The Button Factory",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Andre Rieu",
-        "venue": "3Arena",
-        "genre": "Classical",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Ollie Cole",
-        "venue": "The Unitarian Church",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Hayes Carll & Corb Lund",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-11",
-        "act": "Absolute Eagles Tribute Band 2026",
-        "venue": "Abbey Tavern",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-12",
         "act": "PRESIDENT",
         "venue": "The Academy",
@@ -387,6 +323,78 @@
         "date": "2026-04-23",
         "act": "NE-YO & AKON: Nights Like This Tour 2026",
         "venue": "3Arena",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-23",
+        "act": "Sekou",
+        "venue": "Academy 2",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-23",
+        "act": "Sei Green",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-23",
+        "act": "Nori & Pozzy",
+        "venue": "The Grand Social",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-23",
+        "act": "Happy Mondays",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-23",
+        "act": "Carsie Blanton and the Burning Hell",
+        "venue": "Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Party Cannon & Internal Bleeding",
+        "venue": "The Grand Social",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "NE-YO & AKON: Nights Like This Tour 2026",
+        "venue": "3Arena",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Grooveline",
+        "venue": "The Button Factory",
+        "genre": "Blues",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Amber Mark",
+        "venue": "The Academy",
         "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
