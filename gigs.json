@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-04-12",
-        "act": "PRESIDENT",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-12",
-        "act": "Eliza Carthy & Special Guests: The Songs of Martin Carthy",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-12",
-        "act": "Freddie Gibbs",
-        "venue": "Vicar Street",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-14",
         "act": "Rick Astley: The Reflection Tour 2026",
         "venue": "3Arena",
@@ -396,6 +372,30 @@
         "act": "Amber Mark",
         "venue": "The Academy",
         "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "RULES",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Ben Portsmouth - This Is Elvis",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Makeshift Art Bar",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
