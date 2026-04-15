@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-04-14",
-        "act": "Rick Astley: The Reflection Tour 2026",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-14",
-        "act": "Maggie Lindemann",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-14",
-        "act": "Pete McCredie",
-        "venue": "The Grand Social",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-14",
-        "act": "Niamh McCrystal",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-14",
-        "act": "David Keenan",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-15",
         "act": "YUNGBLUD",
         "venue": "3Arena",
@@ -78,6 +38,14 @@
         "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-04-15",
+        "act": "Madra Salach",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
     },
     {
         "date": "2026-04-15",
@@ -396,6 +364,38 @@
         "act": "Makeshift Art Bar",
         "venue": "Upstairs At Whelans",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Jesse Sykes & the Sweet Hereafter",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Carsie Blanton and the Burning Hell",
+        "venue": "Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-24",
+        "act": "Barker (Live)",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "NE-YO & AKON: Nights Like This Tour 2026",
+        "venue": "3Arena",
+        "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
     }
