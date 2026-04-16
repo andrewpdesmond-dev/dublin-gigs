@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-04-15",
-        "act": "YUNGBLUD",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "Jacob Alon",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "Reggie",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "Peaches",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "Henry Moodie",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "Madra Salach",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "Madams Last Discovery",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-15",
-        "act": "David Keenan",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-16",
         "act": "Marcus Magee & The Hollaw @ The Workman's Club",
         "venue": "The Workmans Club",
@@ -396,6 +332,70 @@
         "act": "NE-YO & AKON: Nights Like This Tour 2026",
         "venue": "3Arena",
         "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "D-MODE",
+        "venue": "Green Room at The Academy",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "Joshua Idehen",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "Ben Portsmouth - This Is Elvis",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "The Lilacs",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "Oscar Blue",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-25",
+        "act": "Glory Days - Bruce Springsteen tribute",
+        "venue": "Abbey Tavern",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-26",
+        "act": "Ninja Sex Party - Pure Elegance Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Comedy",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-26",
+        "act": "Cam Cole",
+        "venue": "Whelans",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
