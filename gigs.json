@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-04-16",
-        "act": "Marcus Magee & The Hollaw @ The Workman's Club",
-        "venue": "The Workmans Club",
-        "genre": "Alternative",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-17",
         "act": "Cooper Alan - To The Pub Tour",
         "venue": "The Academy",
@@ -396,6 +388,14 @@
         "act": "Cam Cole",
         "venue": "Whelans",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-26",
+        "act": "Smerz",
+        "venue": "The Button Factory",
+        "genre": "Other",
         "price": "Check Site",
         "status": "Available"
     }
