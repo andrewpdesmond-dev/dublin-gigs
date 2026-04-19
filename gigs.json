@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-04-18",
-        "act": "The Garth Brooks Experience",
-        "venue": "Academy 2",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-18",
-        "act": "Sleeper",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-18",
-        "act": "Madra Salach",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-18",
-        "act": "Lusaint",
-        "venue": "Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-18",
-        "act": "O'Flynn",
-        "venue": "The Grand Social",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-18",
-        "act": "Lisa Hannigan ** EXTRA DATE NOW SUNDAY 19th APRIL **",
-        "venue": "Abbey Tavern",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-19",
         "act": "Lisa Hannigan - at Abbey Tavern, Howth Dublin.",
         "venue": "Abbey Tavern",
@@ -396,6 +348,54 @@
         "act": "Parker Millsap",
         "venue": "BELLOBAR",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-29",
+        "act": "Big Thief",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-29",
+        "act": "The Big Star Quintet",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-30",
+        "act": "Louis Tomlinson",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-30",
+        "act": "The Big Star Quintet",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-30",
+        "act": "Creeper",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-04-30",
+        "act": "claire rousay",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
