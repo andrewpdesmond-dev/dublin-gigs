@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-04-19",
-        "act": "Lisa Hannigan - at Abbey Tavern, Howth Dublin.",
-        "venue": "Abbey Tavern",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-19",
-        "act": "Christy: a Concert In Support of Women's Aid",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-19",
-        "act": "Tori Amos - In Times of Dragons Tour",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-19",
-        "act": "james K",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-20",
         "act": "Tucker Wetmore",
         "venue": "The Academy",
@@ -396,6 +364,38 @@
         "act": "claire rousay",
         "venue": "BELLOBAR",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-01",
+        "act": "Charlie Noordewier",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-01",
+        "act": "Just Mustard",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-01",
+        "act": "Bleech 9:3",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-01",
+        "act": "Fiinka",
+        "venue": "The Academy",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
