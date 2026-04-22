@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-04-21",
-        "act": "Enter Shikari",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-21",
-        "act": "Skye Newman",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-21",
-        "act": "Vincent Lima",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-22",
         "act": "Miki Berenyi Trio",
         "venue": "The Grand Social",
@@ -398,5 +374,29 @@
         "genre": "Undefined",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-02",
+        "act": "The Royston Club",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-02",
+        "act": "Gavin James: Special Acoustic Show",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-02",
+        "act": "Gabrielle Aplin",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
