@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-04-23",
-        "act": "NE-YO & AKON: Nights Like This Tour 2026",
-        "venue": "3Arena",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-23",
-        "act": "Sekou",
-        "venue": "Academy 2",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-23",
-        "act": "Sei Green",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-23",
-        "act": "Nori & Pozzy",
-        "venue": "The Grand Social",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-23",
-        "act": "Happy Mondays",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-23",
-        "act": "Carsie Blanton and the Burning Hell",
-        "venue": "Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-24",
         "act": "Party Cannon & Internal Bleeding",
         "venue": "The Grand Social",
@@ -396,6 +348,54 @@
         "act": "Modern Nature",
         "venue": "BELLOBAR",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-02",
+        "act": "Colin Graham",
+        "venue": "Upstairs At Whelans",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-02",
+        "act": "K\u00edla - Swords - May 2",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-03",
+        "act": "Knives",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-03",
+        "act": "Nathan Carter",
+        "venue": "3Olympia Theatre",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-04",
+        "act": "Bbno$ - the Internet Explorer Tour",
+        "venue": "National Stadium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-04",
+        "act": "Death In Vegas",
+        "venue": "The Button Factory",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
