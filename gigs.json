@@ -1,85 +1,5 @@
 [
     {
-        "date": "2026-04-24",
-        "act": "Party Cannon & Internal Bleeding",
-        "venue": "The Grand Social",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "NE-YO & AKON: Nights Like This Tour 2026",
-        "venue": "3Arena",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Grooveline",
-        "venue": "The Button Factory",
-        "genre": "Blues",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Amber Mark",
-        "venue": "The Academy",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "RULES",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Ben Portsmouth - This Is Elvis",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Makeshift Art Bar",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Jesse Sykes & the Sweet Hereafter",
-        "venue": "BELLOBAR",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Carsie Blanton and the Burning Hell",
-        "venue": "Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-24",
-        "act": "Barker (Live)",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-25",
         "act": "NE-YO & AKON: Nights Like This Tour 2026",
         "venue": "3Arena",
@@ -396,6 +316,86 @@
         "act": "Death In Vegas",
         "venue": "The Button Factory",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Conan Gray: Wishbone World Tour With Special Guest Esha Tewari",
+        "venue": "3Arena",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Ryan Harris",
+        "venue": "Academy 2",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Endless Love: a Tribute To Diana Ross and Lionel Richie",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Bbno$ - the Internet Explorer Tour",
+        "venue": "National Stadium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Tom Smith (Editors)",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Friendship",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-05",
+        "act": "Booshle G.",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-06",
+        "act": "Alex Warren \u0096 Finding Family on the Road",
+        "venue": "3Arena",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-06",
+        "act": "Super Furry Animals",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-06",
+        "act": "Balu Brigada",
+        "venue": "The Academy",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
