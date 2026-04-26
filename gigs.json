@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-04-25",
-        "act": "NE-YO & AKON: Nights Like This Tour 2026",
-        "venue": "3Arena",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-25",
-        "act": "D-MODE",
-        "venue": "Green Room at The Academy",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-25",
-        "act": "Joshua Idehen",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-04-25",
-        "act": "Ben Portsmouth - This Is Elvis",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-25",
-        "act": "The Lilacs",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-25",
-        "act": "Oscar Blue",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-25",
-        "act": "Glory Days - Bruce Springsteen tribute",
-        "venue": "Abbey Tavern",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-26",
         "act": "Ninja Sex Party - Pure Elegance Tour",
         "venue": "3Olympia Theatre",
@@ -396,6 +340,62 @@
         "act": "Balu Brigada",
         "venue": "The Academy",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-06",
+        "act": "Cloth",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-07",
+        "act": "Alex Warren \u0096 Finding Family on the Road",
+        "venue": "3Arena",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-07",
+        "act": "Brogeal",
+        "venue": "The Academy",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-07",
+        "act": "Joey Valence & Brae - Hyperyouth",
+        "venue": "3Olympia Theatre",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-07",
+        "act": "Laura Elizabeth Hughes",
+        "venue": "The Unitarian Church",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-07",
+        "act": "GRESLEY",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-07",
+        "act": "Crack Cloud",
+        "venue": "The Grand Social",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
