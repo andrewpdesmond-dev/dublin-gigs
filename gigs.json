@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-04-26",
-        "act": "Ninja Sex Party - Pure Elegance Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Comedy",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-26",
-        "act": "Cam Cole",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-26",
-        "act": "Smerz",
-        "venue": "The Button Factory",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-28",
         "act": "The Prodigy",
         "venue": "3Arena",
@@ -361,7 +337,7 @@
     },
     {
         "date": "2026-05-07",
-        "act": "Brogeal",
+        "act": "Br\u00f2geal",
         "venue": "The Academy",
         "genre": "Folk",
         "price": "Check Site",
@@ -396,6 +372,30 @@
         "act": "Crack Cloud",
         "venue": "The Grand Social",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-08",
+        "act": "Ailbhe Reddy",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-08",
+        "act": "The Longest Johns",
+        "venue": "The Academy",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-08",
+        "act": "Mary Black - the Slan Tour",
+        "venue": "Vicar Street",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
