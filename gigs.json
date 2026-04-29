@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-04-28",
-        "act": "The Prodigy",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-28",
-        "act": "Caf\u00e9 del Mundo",
-        "venue": "Ambassador Theatre",
-        "genre": "World",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-28",
-        "act": "IST IST",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-28",
-        "act": "Robert Finley",
-        "venue": "Whelans",
-        "genre": "Blues",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-28",
-        "act": "Splean",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-28",
-        "act": "Parker Millsap",
-        "venue": "BELLOBAR",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-29",
         "act": "Big Thief",
         "venue": "3Arena",
@@ -393,6 +345,54 @@
     },
     {
         "date": "2026-05-08",
+        "act": "Mary Black - the Slan Tour",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-08",
+        "act": "Fiona O'Connell",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-09",
+        "act": "Jack Van Cleaf & Clover County",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-09",
+        "act": "These Charming Men: 40 Years of the Queen Is Dead.",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-09",
+        "act": "Chris Watson",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-09",
+        "act": "The Twilight Sad",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-09",
         "act": "Mary Black - the Slan Tour",
         "venue": "Vicar Street",
         "genre": "Folk",
