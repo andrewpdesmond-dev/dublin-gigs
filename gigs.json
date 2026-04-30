@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-04-29",
-        "act": "Big Thief",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-29",
-        "act": "The Big Star Quintet",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-04-30",
         "act": "Louis Tomlinson",
         "venue": "3Arena",
@@ -289,7 +273,7 @@
     },
     {
         "date": "2026-05-07",
-        "act": "Br\u00f2geal",
+        "act": "Brogeal",
         "venue": "The Academy",
         "genre": "Folk",
         "price": "Check Site",
@@ -396,6 +380,22 @@
         "act": "Mary Black - the Slan Tour",
         "venue": "Vicar Street",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-10",
+        "act": "Bella Kay",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-11",
+        "act": "Chance Pe\u00f1a",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
