@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-04-30",
-        "act": "Louis Tomlinson",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-30",
-        "act": "The Big Star Quintet",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-30",
-        "act": "Creeper",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-04-30",
-        "act": "claire rousay",
-        "venue": "BELLOBAR",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-01",
         "act": "Charlie Noordewier",
         "venue": "Upstairs At Whelans",
@@ -395,6 +363,30 @@
         "date": "2026-05-11",
         "act": "Chance Pe\u00f1a",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-11",
+        "act": "Marlon Funaki",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-11",
+        "act": "The Road To the Great Escape - Monday",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-11",
+        "act": "The Road To the Great Escape - 2 Day Ticket",
+        "venue": "Various Venues",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
