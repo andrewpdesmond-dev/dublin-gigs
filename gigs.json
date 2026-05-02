@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-05-01",
-        "act": "Charlie Noordewier",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-01",
-        "act": "Just Mustard",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-01",
-        "act": "Bleech 9:3",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-01",
-        "act": "Fiinka",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-01",
-        "act": "Rattle & Hum - Live at the Marine Hotel, Sutton",
-        "venue": "Marine Hotel",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-02",
         "act": "Nathan Carter",
         "venue": "3Olympia Theatre",
@@ -387,6 +347,38 @@
         "date": "2026-05-11",
         "act": "The Road To the Great Escape - 2 Day Ticket",
         "venue": "Various Venues",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-12",
+        "act": "Clinton Kane",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-12",
+        "act": "Maddox Batson: Live Worldwide Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-12",
+        "act": "The Road To the Great Escape - Tuesday",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-12",
+        "act": "Jack Cullen",
+        "venue": "Upstairs At Whelans",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
