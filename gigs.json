@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-05-02",
-        "act": "Nathan Carter",
-        "venue": "3Olympia Theatre",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "Queen Orchestral",
-        "venue": "3Arena",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "The Royston Club",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "Gavin James: Special Acoustic Show",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "Gabrielle Aplin",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "Joshua Burnside",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "Modern Nature",
-        "venue": "BELLOBAR",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "Colin Graham",
-        "venue": "Upstairs At Whelans",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-02",
-        "act": "K\u00edla - Swords - May 2",
-        "venue": "Peacocks Bar & Lounge",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-03",
         "act": "Knives",
         "venue": "Academy 2",
@@ -201,7 +129,7 @@
     },
     {
         "date": "2026-05-07",
-        "act": "Brogeal",
+        "act": "Br\u00f2geal",
         "venue": "The Academy",
         "genre": "Folk",
         "price": "Check Site",
@@ -378,6 +306,70 @@
     {
         "date": "2026-05-12",
         "act": "Jack Cullen",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-12",
+        "act": "Tricky",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-13",
+        "act": "Tame Impala",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-13",
+        "act": "Sienna Spiro",
+        "venue": "3Olympia Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-13",
+        "act": "After",
+        "venue": "The Sound House",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-13",
+        "act": "Issue.07: Sheriff / Mischa & the Bear / D_abdu",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-14",
+        "act": "ZAYN - The Konnakol Tour",
+        "venue": "3Arena",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-14",
+        "act": "Child of Prague",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-14",
+        "act": "Nate Bergman",
         "venue": "Upstairs At Whelans",
         "genre": "Rock",
         "price": "Check Site",
