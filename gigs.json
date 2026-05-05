@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-05-04",
-        "act": "Bbno$ - the Internet Explorer Tour",
-        "venue": "National Stadium",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-04",
-        "act": "Death In Vegas",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-05",
         "act": "Conan Gray: Wishbone World Tour With Special Guest Esha Tewari",
         "venue": "3Arena",
@@ -372,6 +356,22 @@
         "act": "R\u00dcF\u00dcS DU SOL EUROPE '26",
         "venue": "3Arena",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-15",
+        "act": "Chalk",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-15",
+        "act": "BIIRD",
+        "venue": "Vicar Street",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
