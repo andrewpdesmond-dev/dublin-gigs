@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-05-06",
-        "act": "Alex Warren \u0096 Finding Family on the Road",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-06",
-        "act": "Super Furry Animals",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-06",
-        "act": "Balu Brigada",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-06",
-        "act": "Cloth",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-07",
         "act": "Alex Warren \u0096 Finding Family on the Road",
         "venue": "3Arena",
@@ -372,6 +340,38 @@
         "act": "BIIRD",
         "venue": "Vicar Street",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-16",
+        "act": "SWMRS",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-17",
+        "act": "BIIRD",
+        "venue": "The Button Factory",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-17",
+        "act": "The Neighbourhood",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-17",
+        "act": "Kraftwerk - Multimedia Tour 2026",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
