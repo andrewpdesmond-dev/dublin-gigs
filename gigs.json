@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-05-07",
-        "act": "Alex Warren \u0096 Finding Family on the Road",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-07",
-        "act": "Br\u00f2geal",
-        "venue": "The Academy",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-07",
-        "act": "Joey Valence & Brae - Hyperyouth",
-        "venue": "3Olympia Theatre",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-07",
-        "act": "GRESLEY",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-07",
-        "act": "Crack Cloud",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-08",
         "act": "Ailbhe Reddy",
         "venue": "The Button Factory",
@@ -372,6 +332,46 @@
         "act": "Kraftwerk - Multimedia Tour 2026",
         "venue": "Bord Gais Energy Theatre",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-17",
+        "act": "Laundry Day: the Time of Your Life Tour: Across the Pond",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-17",
+        "act": "BL\u00dc EYES",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-17",
+        "act": "The Boo Radleys",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-18",
+        "act": "Sir Chloe",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-18",
+        "act": "Dove Ellis",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
