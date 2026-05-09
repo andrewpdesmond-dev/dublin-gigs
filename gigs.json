@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-05-08",
-        "act": "Ailbhe Reddy",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-08",
-        "act": "The Longest Johns",
-        "venue": "The Academy",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-08",
-        "act": "Adrian Crowley",
-        "venue": "Tengu Dublin",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-08",
-        "act": "Mary Black - the Slan Tour",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-08",
-        "act": "Fiona O'Connell",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-09",
         "act": "Jack Van Cleaf & Clover County",
         "venue": "The Grand Social",
@@ -372,6 +332,46 @@
         "act": "Dove Ellis",
         "venue": "The Workmans Club",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-19",
+        "act": "Doja Cat - Tour Ma Vie World Tour",
+        "venue": "3Arena",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-19",
+        "act": "Leah Kate: the Genius Tour",
+        "venue": "Green Room at The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-19",
+        "act": "Carly Pearce",
+        "venue": "3Olympia Theatre",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-19",
+        "act": "Liniker",
+        "venue": "Vicar Street",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-19",
+        "act": "Fcukers",
+        "venue": "The Button Factory",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
