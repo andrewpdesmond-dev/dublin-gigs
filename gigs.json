@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-05-09",
-        "act": "Jack Van Cleaf & Clover County",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-09",
-        "act": "These Charming Men: 40 Years of the Queen Is Dead.",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-09",
-        "act": "Chris Watson",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-09",
-        "act": "The Twilight Sad",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-09",
-        "act": "Mary Black - the Slan Tour",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-10",
         "act": "Bella Kay",
         "venue": "The Academy",
@@ -85,7 +45,7 @@
         "venue": "Academy 2",
         "genre": "Pop",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-05-12",
@@ -372,6 +332,46 @@
         "act": "Fcukers",
         "venue": "The Button Factory",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-19",
+        "act": "Dove Ellis",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "Paul Simon - a Quiet Celebration",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "PAUL SIMON OFFICIAL VIP TICKET EXPERIENCES",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "John Vincent III",
+        "venue": "Green Room at The Academy",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "Ray LaMontagne - Trouble 20th Anniversary Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
