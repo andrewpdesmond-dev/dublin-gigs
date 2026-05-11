@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-05-10",
-        "act": "Bella Kay",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-11",
         "act": "Chance Pe\u00f1a",
         "venue": "3Olympia Theatre",
@@ -371,6 +363,14 @@
         "date": "2026-05-20",
         "act": "Ray LaMontagne - Trouble 20th Anniversary Tour",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "Sarah Kinsley",
+        "venue": "The Button Factory",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
