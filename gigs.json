@@ -1,30 +1,6 @@
 [
     {
         "date": "2026-05-11",
-        "act": "Chance Pe\u00f1a",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-11",
-        "act": "Marlon Funaki",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-11",
-        "act": "The Road To the Great Escape - Monday",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-11",
         "act": "The Road To the Great Escape - 2 Day Ticket",
         "venue": "Various Venues",
         "genre": "Rock",
@@ -371,6 +347,38 @@
         "date": "2026-05-20",
         "act": "Sarah Kinsley",
         "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "Taking Back Sunday",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-20",
+        "act": "Tide Lines",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-21",
+        "act": "Kiefer Sutherland",
+        "venue": "Ambassador Theatre",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-21",
+        "act": "Ray LaMontagne - Trouble 20th Anniversary Tour",
+        "venue": "3Olympia Theatre",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
