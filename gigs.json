@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-05-11",
-        "act": "The Road To the Great Escape - 2 Day Ticket",
-        "venue": "Various Venues",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-12",
-        "act": "Clinton Kane",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-12",
-        "act": "Maddox Batson: Live Worldwide Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-12",
-        "act": "The Road To the Great Escape - Tuesday",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-12",
-        "act": "Jack Cullen",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-12",
-        "act": "Tricky",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-13",
         "act": "Tame Impala",
         "venue": "3Arena",
@@ -250,7 +202,7 @@
     {
         "date": "2026-05-18",
         "act": "Sir Chloe",
-        "venue": "The Academy",
+        "venue": "Green Room at The Academy",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -274,10 +226,10 @@
     {
         "date": "2026-05-19",
         "act": "Leah Kate: the Genius Tour",
-        "venue": "Green Room at The Academy",
+        "venue": "Academy 2",
         "genre": "Pop",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-05-19",
@@ -309,7 +261,7 @@
         "venue": "The Workmans Club",
         "genre": "Rock",
         "price": "Check Site",
-        "status": "Sold Out"
+        "status": "Available"
     },
     {
         "date": "2026-05-20",
@@ -379,6 +331,70 @@
         "date": "2026-05-21",
         "act": "Ray LaMontagne - Trouble 20th Anniversary Tour",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-21",
+        "act": "Tonight Alive",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-21",
+        "act": "Satsang",
+        "venue": "The Grand Social",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-21",
+        "act": "Theatre",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-22",
+        "act": "Favourite Worst Nightmare: the Ultimate Tribute To Arctic Monkeys",
+        "venue": "Green Room at The Academy",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-22",
+        "act": "duendita",
+        "venue": "Upstairs At Whelans",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-22",
+        "act": "The Fureys",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-22",
+        "act": "Kaitlin Butts",
+        "venue": "Whelans",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-22",
+        "act": "The Nightingales",
+        "venue": "The Workmans Club",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
