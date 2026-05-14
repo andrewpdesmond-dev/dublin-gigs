@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-05-13",
-        "act": "Tame Impala",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-13",
-        "act": "Sienna Spiro",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-13",
-        "act": "After",
-        "venue": "The Sound House",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-13",
-        "act": "Issue.07: Sheriff / Mischa & the Bear / D_abdu",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-14",
         "act": "ZAYN - The Konnakol Tour",
         "venue": "3Arena",
@@ -229,7 +197,7 @@
         "venue": "Academy 2",
         "genre": "Pop",
         "price": "Check Site",
-        "status": "Sold Out"
+        "status": "Available"
     },
     {
         "date": "2026-05-19",
@@ -276,14 +244,6 @@
         "act": "PAUL SIMON OFFICIAL VIP TICKET EXPERIENCES",
         "venue": "3Arena",
         "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-20",
-        "act": "John Vincent III",
-        "venue": "Green Room at The Academy",
-        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     },
@@ -398,5 +358,45 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-05-22",
+        "act": "K\u00edla - Killiney - May 22",
+        "venue": "Fitzpatrick Castle Hotel",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "Day Fever",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "Katie Gregson-MacLeod",
+        "venue": "The Unitarian Church",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "Colm McGuinness",
+        "venue": "The Grand Social",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "Fortune Igiebor",
+        "venue": "Academy 2",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
