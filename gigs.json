@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-05-14",
-        "act": "ZAYN - The Konnakol Tour",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-14",
-        "act": "Child of Prague",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-14",
-        "act": "Nate Bergman",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-14",
-        "act": "Orange and Lemons",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-15",
         "act": "R\u00dcF\u00dcS DU SOL EUROPE '26",
         "venue": "3Arena",
@@ -396,6 +364,38 @@
         "act": "Fortune Igiebor",
         "venue": "Academy 2",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "John Spillane Live in Swords - May 23rd",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "The Fureys",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-23",
+        "act": "K\u00edla - Lucan - May 23",
+        "venue": "Courtney's of Lucan",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-24",
+        "act": "Elio Mei Presents: Tomato! Tomato! Tomato! The Tour",
+        "venue": "Academy 2",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Sold Out"
     }
