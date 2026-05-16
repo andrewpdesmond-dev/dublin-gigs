@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-05-15",
-        "act": "R\u00dcF\u00dcS DU SOL EUROPE '26",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-15",
-        "act": "Chalk",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-15",
-        "act": "BIIRD",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-15",
-        "act": "The Handsome Family",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-15",
-        "act": "Cable Boy",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-16",
         "act": "Dublin Goes Country - the Ultimate Modern Country Tribute",
         "venue": "The Academy",
@@ -398,5 +358,45 @@
         "genre": "Folk",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-24",
+        "act": "Christopher Cross",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-25",
+        "act": "Tinariwen",
+        "venue": "3Olympia Theatre",
+        "genre": "Blues",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-25",
+        "act": "Clutch",
+        "venue": "The Academy",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-25",
+        "act": "Rodrigo y Gabriela",
+        "venue": "National Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-25",
+        "act": "Alan Stivell - Liberty",
+        "venue": "Ambassador Theatre",
+        "genre": "World",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
