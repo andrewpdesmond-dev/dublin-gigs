@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-05-16",
-        "act": "Dublin Goes Country - the Ultimate Modern Country Tribute",
-        "venue": "The Academy",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-16",
-        "act": "Richard Ashcroft",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-16",
-        "act": "The Franklin Electric",
-        "venue": "The Sound House",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-16",
-        "act": "Roisin O - the Magic Tour 2026",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-16",
-        "act": "BIIRD",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-16",
-        "act": "SWMRS",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-17",
         "act": "BIIRD",
         "venue": "The Button Factory",
@@ -396,6 +348,54 @@
         "act": "Alan Stivell - Liberty",
         "venue": "Ambassador Theatre",
         "genre": "World",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Barns Courtney",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Motion City Soundtrack",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Clutch",
+        "venue": "The Academy",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Ratboys",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Weatherday",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "The Lemon Twigs",
+        "venue": "Vicar Street",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
