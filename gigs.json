@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-05-17",
-        "act": "BIIRD",
-        "venue": "The Button Factory",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-17",
-        "act": "The Neighbourhood",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-17",
-        "act": "Kraftwerk - Multimedia Tour 2026",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-17",
-        "act": "Laundry Day: the Time of Your Life Tour: Across the Pond",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-17",
-        "act": "BL\u00dc EYES",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-17",
-        "act": "The Boo Radleys",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-18",
         "act": "Sir Chloe",
         "venue": "Green Room at The Academy",
@@ -395,6 +347,54 @@
         "date": "2026-05-26",
         "act": "The Lemon Twigs",
         "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Mary Black - the Sl\u00e1n Tour",
+        "venue": "National Stadium",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-26",
+        "act": "Christopher Cross",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-27",
+        "act": "Sugar: Love You Even Still Tour",
+        "venue": "National Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-27",
+        "act": "Benjamin Steer",
+        "venue": "Green Room at The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-27",
+        "act": "Fakemink : a Terrible Beauty",
+        "venue": "The Academy",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-27",
+        "act": "Florence Road",
+        "venue": "3Olympia Theatre",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
