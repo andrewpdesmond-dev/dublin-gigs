@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-05-18",
-        "act": "Sir Chloe",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-18",
-        "act": "Dove Ellis",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-19",
         "act": "Doja Cat - Tour Ma Vie World Tour",
         "venue": "3Arena",
@@ -205,7 +189,7 @@
         "venue": "The Academy",
         "genre": "Pop",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-05-23",
@@ -398,5 +382,21 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-05-27",
+        "act": "Mudrat",
+        "venue": "BELLOBAR",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-27",
+        "act": "Kassi Valazza",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
