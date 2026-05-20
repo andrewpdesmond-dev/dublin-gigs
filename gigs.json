@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-05-19",
-        "act": "Doja Cat - Tour Ma Vie World Tour",
-        "venue": "3Arena",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-19",
-        "act": "Leah Kate: the Genius Tour",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-19",
-        "act": "Carly Pearce",
-        "venue": "3Olympia Theatre",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-19",
-        "act": "Liniker",
-        "venue": "Vicar Street",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-19",
-        "act": "Fcukers",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-19",
-        "act": "Dove Ellis",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-20",
         "act": "Paul Simon - a Quiet Celebration",
         "venue": "3Arena",
@@ -396,6 +348,54 @@
         "act": "Kassi Valazza",
         "venue": "Upstairs At Whelans",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-28",
+        "act": "Fakemink : a Terrible Beauty",
+        "venue": "The Academy",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-28",
+        "act": "Conleth McGeary",
+        "venue": "The Workmans Cellar",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "Amble",
+        "venue": "St Annes Park",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "Mary Black: the Slan Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "ivri",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "Jack Devlin",
+        "venue": "The Button Factory",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
     }
