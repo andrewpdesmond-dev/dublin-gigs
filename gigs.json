@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-05-20",
-        "act": "Paul Simon - a Quiet Celebration",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-20",
-        "act": "PAUL SIMON OFFICIAL VIP TICKET EXPERIENCES",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-20",
-        "act": "Ray LaMontagne - Trouble 20th Anniversary Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-20",
-        "act": "Sarah Kinsley",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-20",
-        "act": "Taking Back Sunday",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-20",
-        "act": "Tide Lines",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-21",
         "act": "Kiefer Sutherland",
         "venue": "Ambassador Theatre",
@@ -398,5 +350,53 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "Thomas Dolby Plust Guest Martin McAloon",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "Hermitage Green",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-29",
+        "act": "Kevin Fowley & Louise Gaffney",
+        "venue": "BELLOBAR",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-30",
+        "act": "Forbidden Fruit - Saturday Only",
+        "venue": "IMMA",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-30",
+        "act": "CMAT - It's the Euro-Country Tour!",
+        "venue": "St Annes Park",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-05-30",
+        "act": "Mary Black: the Slan Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
