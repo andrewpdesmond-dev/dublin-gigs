@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-05-23",
-        "act": "Day Fever",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-23",
-        "act": "Katie Gregson-MacLeod",
-        "venue": "The Unitarian Church",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-23",
-        "act": "Colm McGuinness",
-        "venue": "The Grand Social",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-23",
-        "act": "Fortune Igiebor",
-        "venue": "Academy 2",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-23",
-        "act": "John Spillane Live in Swords - May 23rd",
-        "venue": "Peacocks Bar & Lounge",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-23",
-        "act": "The Fureys",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-23",
-        "act": "K\u00edla - Lucan - May 23",
-        "venue": "Courtney's of Lucan",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-24",
         "act": "Elio Mei Presents: Tomato! Tomato! Tomato! The Tour",
         "venue": "Academy 2",
@@ -395,6 +339,62 @@
         "date": "2026-05-31",
         "act": "Bears In Trees",
         "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-01",
+        "act": "Sofia Isella: Her Desire, the Nemisis Uk/Eu Tour 2026",
+        "venue": "National Stadium",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-01",
+        "act": "Puma Blue",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-02",
+        "act": "Rainbow Kitten Surprise",
+        "venue": "National Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-02",
+        "act": "PIXIES-P40 Celebrating 40 Years",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-02",
+        "act": "Don West",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-03",
+        "act": "Addison Rae",
+        "venue": "IMMA",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-03",
+        "act": "The Aristocrats",
+        "venue": "The Academy",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
