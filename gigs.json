@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-05-24",
-        "act": "Elio Mei Presents: Tomato! Tomato! Tomato! The Tour",
-        "venue": "Academy 2",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-24",
-        "act": "Christopher Cross",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-25",
         "act": "Tinariwen",
         "venue": "3Olympia Theatre",
@@ -396,6 +380,22 @@
         "act": "The Aristocrats",
         "venue": "The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-03",
+        "act": "Jason Isbell and the 400 Unit",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-03",
+        "act": "Teddy Thompson",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
