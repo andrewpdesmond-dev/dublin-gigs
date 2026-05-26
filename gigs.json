@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-05-25",
-        "act": "Tinariwen",
-        "venue": "3Olympia Theatre",
-        "genre": "Blues",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-25",
-        "act": "Clutch",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-25",
-        "act": "Rodrigo y Gabriela",
-        "venue": "National Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-25",
-        "act": "Alan Stivell - Liberty",
-        "venue": "Ambassador Theatre",
-        "genre": "World",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-26",
         "act": "Barns Courtney",
         "venue": "Academy 2",
@@ -396,6 +364,38 @@
         "act": "Teddy Thompson",
         "venue": "The Workmans Club",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-03",
+        "act": "Jon Spencer",
+        "venue": "Lost Lane",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-04",
+        "act": "Dream, Ivory",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-04",
+        "act": "LANY",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-04",
+        "act": "Girl In The Year Above",
+        "venue": "Whelans",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
