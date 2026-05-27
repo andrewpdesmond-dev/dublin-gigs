@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-05-26",
-        "act": "Barns Courtney",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "Motion City Soundtrack",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "Clutch",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "Ratboys",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "Weatherday",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "The Lemon Twigs",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "Mary Black - the Sl\u00e1n Tour",
-        "venue": "National Stadium",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-26",
-        "act": "Christopher Cross",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-27",
         "act": "Sugar: Love You Even Still Tour",
         "venue": "National Stadium",
@@ -396,6 +332,70 @@
         "act": "Girl In The Year Above",
         "venue": "Whelans",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-04",
+        "act": "HEADSEND",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-06-05",
+        "act": "Kingfishr",
+        "venue": "St Annes Park",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-05",
+        "act": "C.W. Stoneking",
+        "venue": "The Button Factory",
+        "genre": "Blues",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-05",
+        "act": "Aslan",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-05",
+        "act": "Amanda Shires - Streetlights & Stars European Tour",
+        "venue": "Ambassador Theatre",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-05",
+        "act": "Kiesza",
+        "venue": "Green Room at The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-05",
+        "act": "Aldous Harding",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-06",
+        "act": "Rebecca O'Connor: Simply the Best",
+        "venue": "Ambassador Theatre",
+        "genre": "Undefined",
         "price": "Check Site",
         "status": "Available"
     }
