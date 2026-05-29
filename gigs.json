@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-05-28",
-        "act": "Fakemink : a Terrible Beauty",
-        "venue": "The Academy",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-28",
-        "act": "Conleth McGeary",
-        "venue": "The Workmans Cellar",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-29",
         "act": "Amble",
         "venue": "St Annes Park",
@@ -396,6 +380,22 @@
         "act": "CupcakKe",
         "venue": "The Academy",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-08",
+        "act": "Jools Holland and His Rhythm and Blues Orchestra",
+        "venue": "3Arena",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-08",
+        "act": "Lakeview",
+        "venue": "The Grand Social",
+        "genre": "Country",
         "price": "Check Site",
         "status": "Available"
     }
