@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-05-29",
-        "act": "Amble",
-        "venue": "St Annes Park",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-29",
-        "act": "Mary Black: the Slan Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-29",
-        "act": "ivri",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-29",
-        "act": "Jack Devlin",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-29",
-        "act": "Thomas Dolby Plust Guest Martin McAloon",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-29",
-        "act": "Hermitage Green",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-29",
-        "act": "Kevin Fowley & Louise Gaffney",
-        "venue": "BELLOBAR",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-05-30",
         "act": "Forbidden Fruit - Saturday Only",
         "venue": "IMMA",
@@ -385,7 +329,7 @@
     },
     {
         "date": "2026-06-08",
-        "act": "Jools Holland and His Rhythm and Blues Orchestra",
+        "act": "Jools Holland and His Rhythm & Blues Orchestra",
         "venue": "3Arena",
         "genre": "R&B",
         "price": "Check Site",
@@ -396,6 +340,62 @@
         "act": "Lakeview",
         "venue": "The Grand Social",
         "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-09",
+        "act": "Imelda May - Raised on Songs & Stories",
+        "venue": "Vicar Street",
+        "genre": "Jazz",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-10",
+        "act": "Guns N' Roses - World Tour 2026",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-10",
+        "act": "Mary Black: the Slan Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-10",
+        "act": "Keli Holiday",
+        "venue": "The Sound House",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-10",
+        "act": "Imelda May - Raised on Songs & Stories",
+        "venue": "Vicar Street",
+        "genre": "Jazz",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-11",
+        "act": "Dogstar",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-11",
+        "act": "Kayleigh Noble",
+        "venue": "The Sound House",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
