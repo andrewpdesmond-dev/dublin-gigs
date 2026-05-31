@@ -1,67 +1,11 @@
 [
     {
         "date": "2026-05-30",
-        "act": "Forbidden Fruit - Saturday Only",
-        "venue": "IMMA",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-30",
-        "act": "CMAT - It's the Euro-Country Tour!",
-        "venue": "St Annes Park",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-30",
-        "act": "Mary Black: the Slan Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-30",
-        "act": "GBH",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-05-30",
-        "act": "Jeff Goldblum & the Mildred Snitzer Orchestra",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Jazz",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-30",
-        "act": "Jordana",
-        "venue": "The Sound House",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-30",
-        "act": "Hermitage Green",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-05-30",
         "act": "Forbidden Fruit - 2 Day Weekend Ticket",
         "venue": "IMMA",
         "genre": "Undefined",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-05-30",
@@ -69,7 +13,7 @@
         "venue": "IMMA",
         "genre": "Undefined",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-05-31",
@@ -329,7 +273,7 @@
     },
     {
         "date": "2026-06-08",
-        "act": "Jools Holland and His Rhythm & Blues Orchestra",
+        "act": "Jools Holland and His Rhythm and Blues Orchestra",
         "venue": "3Arena",
         "genre": "R&B",
         "price": "Check Site",
@@ -396,6 +340,62 @@
         "act": "Kayleigh Noble",
         "venue": "The Sound House",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-12",
+        "act": "What's Love Got to do With it - Tina Turner Tribute",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-12",
+        "act": "Mary Coughlan & Ultan Conlon - Swords - June 12",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-13",
+        "act": "Robert Grace",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-13",
+        "act": "Periphery",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-13",
+        "act": "Mary Black - the Slan Tour",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-13",
+        "act": "Swiftogeddon - The Taylor Themed Club Night - Dublin",
+        "venue": "The Grand Social",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-14",
+        "act": "Sisters Doll - a Good Day To Be Alive",
+        "venue": "Fibber MaGees",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
