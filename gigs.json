@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-06-01",
-        "act": "Sofia Isella: Her Desire, the Nemisis Uk/Eu Tour 2026",
-        "venue": "National Stadium",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-01",
-        "act": "Puma Blue",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-02",
         "act": "Rainbow Kitten Surprise",
         "venue": "National Stadium",
@@ -396,6 +380,22 @@
         "act": "The Plot In You",
         "venue": "The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-17",
+        "act": "David Gray - Past & Present Tour",
+        "venue": "Fairview Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-17",
+        "act": "Mount Eerie",
+        "venue": "The Button Factory",
+        "genre": "Other",
         "price": "Check Site",
         "status": "Available"
     }
