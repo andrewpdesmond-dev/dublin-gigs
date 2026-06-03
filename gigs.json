@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-06-02",
-        "act": "Rainbow Kitten Surprise",
-        "venue": "National Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-02",
-        "act": "PIXIES-P40 Celebrating 40 Years",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-02",
-        "act": "Don West",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-03",
         "act": "Addison Rae",
         "venue": "IMMA",
@@ -396,6 +372,30 @@
         "act": "Mount Eerie",
         "venue": "The Button Factory",
         "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-17",
+        "act": "Paul Brady",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-17",
+        "act": "Shamrock Showband",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-18",
+        "act": "Weston Loney - the Bombshell Tour",
+        "venue": "The Grand Social",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
