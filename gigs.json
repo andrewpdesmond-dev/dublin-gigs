@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-04",
-        "act": "Dream, Ivory",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-04",
-        "act": "LANY",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-04",
-        "act": "Girl In The Year Above",
-        "venue": "Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-04",
-        "act": "HEADSEND",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-06-05",
         "act": "Kingfishr",
         "venue": "St Annes Park",
@@ -69,7 +37,7 @@
         "venue": "Academy 2",
         "genre": "Rock",
         "price": "Check Site",
-        "status": "Sold Out"
+        "status": "Available"
     },
     {
         "date": "2026-06-05",
@@ -89,6 +57,14 @@
     },
     {
         "date": "2026-06-06",
+        "act": "Nadia Reid (Solo)",
+        "venue": "BELLOBAR",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-06",
         "act": "Scott Bradlee's Postmodern Jukebox",
         "venue": "Vicar Street",
         "genre": "Undefined",
@@ -100,14 +76,6 @@
         "act": "Nerves",
         "venue": "The Workmans Club",
         "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-06",
-        "act": "Nadia Reid (Solo)",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     },
@@ -149,7 +117,7 @@
         "venue": "The Grand Social",
         "genre": "Country",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-06-09",
@@ -396,6 +364,38 @@
         "act": "Paul Brady",
         "venue": "Vicar Street",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-19",
+        "act": "Mary Coughlan & Ultan Conlon - Lucan - June 19",
+        "venue": "Courtney's of Lucan",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-19",
+        "act": "Shady Nasty",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-19",
+        "act": "Metallica: M72 World Tour | 2-Day Ticket (Fri 19 + Sun 21 June'26)",
+        "venue": "Aviva Stadium",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-20",
+        "act": "Olivia Dean - the Art of Loving Live",
+        "venue": "Marlay Park",
+        "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
     }
