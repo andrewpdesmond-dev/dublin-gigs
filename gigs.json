@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-06",
-        "act": "Rebecca O'Connor: Simply the Best",
-        "venue": "Ambassador Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-06",
-        "act": "Nadia Reid (Solo)",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-06",
-        "act": "Scott Bradlee's Postmodern Jukebox",
-        "venue": "Vicar Street",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-06",
-        "act": "Nerves",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-07",
         "act": "David Byrne",
         "venue": "St Annes Park",
@@ -396,6 +364,38 @@
         "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
         "venue": "The Button Factory",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-22",
+        "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
+        "venue": "The Button Factory",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-23",
+        "act": "Lewis Capaldi",
+        "venue": "Marlay Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-23",
+        "act": "Knocked Loose",
+        "venue": "The Academy",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-23",
+        "act": "Royel Otis",
+        "venue": "National Stadium",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
