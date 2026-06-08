@@ -1,31 +1,7 @@
 [
     {
-        "date": "2026-06-07",
-        "act": "David Byrne",
-        "venue": "St Annes Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-07",
-        "act": "Kitty Craft",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-07",
-        "act": "CupcakKe",
-        "venue": "The Academy",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-08",
-        "act": "Jools Holland and His Rhythm and Blues Orchestra",
+        "act": "Jools Holland and His Rhythm & Blues Orchestra",
         "venue": "3Arena",
         "genre": "R&B",
         "price": "Check Site",
@@ -395,6 +371,30 @@
         "date": "2026-06-23",
         "act": "Royel Otis",
         "venue": "National Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-24",
+        "act": "Lewis Capaldi",
+        "venue": "Marlay Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-24",
+        "act": "Robyn - the sexistential tour",
+        "venue": "3Arena",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-24",
+        "act": "Two Door Cinema Club",
+        "venue": "Fairview Park",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
