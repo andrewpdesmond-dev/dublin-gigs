@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-06-09",
-        "act": "Imelda May - Raised on Songs & Stories",
-        "venue": "Vicar Street",
-        "genre": "Jazz",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-10",
         "act": "Guns N' Roses - World Tour 2026",
         "venue": "3Arena",
@@ -166,6 +158,14 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-06-16",
+        "act": "The Ruby Sessions",
+        "venue": "The Ruby Sessions",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
     },
     {
         "date": "2026-06-17",
