@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-10",
-        "act": "Guns N' Roses - World Tour 2026",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-10",
-        "act": "Mary Black: the Slan Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-10",
-        "act": "Keli Holiday",
-        "venue": "The Sound House",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-10",
-        "act": "Imelda May - Raised on Songs & Stories",
-        "venue": "Vicar Street",
-        "genre": "Jazz",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-11",
         "act": "Dogstar",
         "venue": "3Olympia Theatre",
@@ -395,6 +363,38 @@
         "date": "2026-06-25",
         "act": "Dropkick Murphys",
         "venue": "Fairview Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-25",
+        "act": "Have Mercy",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-25",
+        "act": "Culture Wars",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-25",
+        "act": "Mick Flannery - \"The House Must Win\" Album Release Show",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-26",
+        "act": "The Cure",
+        "venue": "Marlay Park",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
