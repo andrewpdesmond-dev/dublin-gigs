@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-06-11",
-        "act": "Dogstar",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-11",
-        "act": "Kayleigh Noble",
-        "venue": "The Sound House",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-12",
         "act": "What's Love Got to do With it - Tina Turner Tribute",
         "venue": "3Olympia Theatre",
@@ -396,6 +380,22 @@
         "act": "The Cure",
         "venue": "Marlay Park",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-26",
+        "act": "Mick Flannery - \"The House Must Win\" Album Release Show",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-27",
+        "act": "Calvin Harris",
+        "venue": "Marlay Park",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
