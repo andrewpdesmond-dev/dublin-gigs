@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-06-12",
-        "act": "What's Love Got to do With it - Tina Turner Tribute",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-12",
-        "act": "Mary Coughlan & Ultan Conlon - Swords - June 12",
-        "venue": "Peacocks Bar & Lounge",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-13",
         "act": "Robert Grace",
         "venue": "Academy 2",
@@ -396,6 +380,22 @@
         "act": "Calvin Harris",
         "venue": "Marlay Park",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-27",
+        "act": "Ethel Cain - the Willoughby Tucker Forever Tour",
+        "venue": "Fairview Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-27",
+        "act": "George Murphy & The Rising Sons \u2013 The Ultimate Session Tour 2026",
+        "venue": "Bonnington Hotel",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
