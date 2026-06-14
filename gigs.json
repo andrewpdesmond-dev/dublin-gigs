@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-13",
-        "act": "Robert Grace",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-13",
-        "act": "Periphery",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-13",
-        "act": "Mary Black - the Slan Tour",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-13",
-        "act": "Swiftogeddon - The Taylor Themed Club Night - Dublin",
-        "venue": "The Grand Social",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-14",
         "act": "Sisters Doll - a Good Day To Be Alive",
         "venue": "Fibber MaGees",
@@ -396,6 +364,38 @@
         "act": "George Murphy & The Rising Sons \u2013 The Ultimate Session Tour 2026",
         "venue": "Bonnington Hotel",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-27",
+        "act": "Superchunk",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-27",
+        "act": "The Phantoms of the Popera",
+        "venue": "Ambassador Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-06-27",
+        "act": "Stipe Tribute To R.E.M.",
+        "venue": "Whelans",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-28",
+        "act": "Florence + The Machine - The Everybody Scream Tour",
+        "venue": "Marlay Park",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
