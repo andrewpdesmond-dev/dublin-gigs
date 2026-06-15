@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-06-14",
-        "act": "Sisters Doll - a Good Day To Be Alive",
-        "venue": "Fibber MaGees",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-15",
         "act": "Jake Schroeder",
         "venue": "The Sugar Club",
@@ -69,7 +61,7 @@
         "venue": "The Ruby Sessions",
         "genre": "Folk",
         "price": "Check Site",
-        "status": "Sold Out"
+        "status": "Available"
     },
     {
         "date": "2026-06-17",
@@ -395,6 +387,14 @@
         "date": "2026-06-28",
         "act": "Florence + The Machine - The Everybody Scream Tour",
         "venue": "Marlay Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-28",
+        "act": "Paul Weller",
+        "venue": "Fairview Park",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
