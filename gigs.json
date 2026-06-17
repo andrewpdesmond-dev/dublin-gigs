@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-06-16",
-        "act": "Voivod & Midnight",
-        "venue": "Whelans",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-16",
-        "act": "Kasabian",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-16",
-        "act": "Theo Katzman",
-        "venue": "The Button Factory",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-16",
-        "act": "Red Leather",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-16",
-        "act": "The Plot In You",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-16",
-        "act": "The Ruby Sessions",
-        "venue": "The Ruby Sessions",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-17",
         "act": "David Gray - Past & Present Tour",
         "venue": "Fairview Park",
@@ -396,6 +348,54 @@
         "act": "James Arthur",
         "venue": "Trinity College",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-29",
+        "act": "Hayley Williams",
+        "venue": "National Stadium",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-30",
+        "act": "Lily Allen",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-30",
+        "act": "Empire of the Sun",
+        "venue": "Fairview Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-30",
+        "act": "Stephen Wilson Jr.",
+        "venue": "Trinity College",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-30",
+        "act": "Hayley Williams",
+        "venue": "National Stadium",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-30",
+        "act": "Jorge Aragao",
+        "venue": "The Academy",
+        "genre": "Latin",
         "price": "Check Site",
         "status": "Available"
     }
