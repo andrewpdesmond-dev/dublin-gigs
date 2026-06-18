@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-17",
-        "act": "David Gray - Past & Present Tour",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-17",
-        "act": "Mount Eerie",
-        "venue": "The Button Factory",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-17",
-        "act": "Paul Brady",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-17",
-        "act": "Shamrock Showband",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-18",
         "act": "Weston Loney - the Bombshell Tour",
         "venue": "The Grand Social",
@@ -394,6 +362,38 @@
     {
         "date": "2026-06-30",
         "act": "Jorge Aragao",
+        "venue": "The Academy",
+        "genre": "Latin",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-30",
+        "act": "Chezile",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-01",
+        "act": "Lily Allen",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-01",
+        "act": "Wet Leg",
+        "venue": "Trinity College",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-01",
+        "act": "Molotov",
         "venue": "The Academy",
         "genre": "Latin",
         "price": "Check Site",
