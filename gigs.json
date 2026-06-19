@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-06-18",
-        "act": "Weston Loney - the Bombshell Tour",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-18",
-        "act": "Paul Brady",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-18",
-        "act": "Becky McNeice",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-19",
         "act": "Metallica: M72 World Tour | 1-Day Ticket (Friday 19th June 2026)",
         "venue": "Aviva Stadium",
@@ -113,14 +89,6 @@
     },
     {
         "date": "2026-06-21",
-        "act": "Electric Six",
-        "venue": "Gaiety Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-21",
         "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
         "venue": "The Button Factory",
         "genre": "Folk",
@@ -158,6 +126,14 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-06-23",
+        "act": "The Ruby Sessions",
+        "venue": "The Ruby Sessions",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
     },
     {
         "date": "2026-06-24",
@@ -396,6 +372,30 @@
         "act": "Molotov",
         "venue": "The Academy",
         "genre": "Latin",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-02",
+        "act": "Glen Hansard",
+        "venue": "Trinity College",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-02",
+        "act": "Pedro Sampaio",
+        "venue": "The Academy",
+        "genre": "Latin",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-02",
+        "act": "Nile Rodgers & CHIC",
+        "venue": "Iveagh Gardens",
+        "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
     }
