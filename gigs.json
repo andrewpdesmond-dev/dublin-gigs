@@ -1,46 +1,6 @@
 [
     {
         "date": "2026-06-19",
-        "act": "Metallica: M72 World Tour | 1-Day Ticket (Friday 19th June 2026)",
-        "venue": "Aviva Stadium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-19",
-        "act": "Halestorm's Lzzy & Joe: Unplugged",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-19",
-        "act": "Paul Brady",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-19",
-        "act": "Mary Coughlan & Ultan Conlon - Lucan - June 19",
-        "venue": "Courtney's of Lucan",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-19",
-        "act": "Shady Nasty",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-19",
         "act": "Metallica: M72 World Tour | 2-Day Ticket (Fri 19 + Sun 21 June'26)",
         "venue": "Aviva Stadium",
         "genre": "Metal",
@@ -396,6 +356,46 @@
         "act": "Nile Rodgers & CHIC",
         "venue": "Iveagh Gardens",
         "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-03",
+        "act": "The Wolfe Tones",
+        "venue": "3Arena",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-03",
+        "act": "Cian Ducrot",
+        "venue": "Trinity College",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-03",
+        "act": "Goldbug",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-03",
+        "act": "Dylan Gossett",
+        "venue": "Iveagh Gardens",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-03",
+        "act": "The 4 OF Us - Lucan - July 3",
+        "venue": "Courtney's of Lucan",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
