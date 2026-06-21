@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-19",
-        "act": "Metallica: M72 World Tour | 2-Day Ticket (Fri 19 + Sun 21 June'26)",
-        "venue": "Aviva Stadium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-20",
-        "act": "Olivia Dean - the Art of Loving Live",
-        "venue": "Marlay Park",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-20",
-        "act": "Kirk Hammett In Conversation with Ronan McGreevy",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-20",
-        "act": "Skullcrusher: And Your Song is Like a Circle Tour",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-21",
         "act": "Olivia Dean - the Art of Loving Live",
         "venue": "Marlay Park",
@@ -52,6 +20,14 @@
         "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
         "venue": "The Button Factory",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-06-21",
+        "act": "Metallica: M72 World Tour | 2-Day Ticket (Fri 19 + Sun 21 June'26)",
+        "venue": "Aviva Stadium",
+        "genre": "Metal",
         "price": "Check Site",
         "status": "Available"
     },
@@ -361,7 +337,7 @@
     },
     {
         "date": "2026-07-03",
-        "act": "The Wolfe Tones",
+        "act": "Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -396,6 +372,30 @@
         "act": "The 4 OF Us - Lucan - July 3",
         "venue": "Courtney's of Lucan",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "TAKE THAT - THE CIRCUS LIVE - Summer 2026",
+        "venue": "Aviva Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "Wolfe Tones",
+        "venue": "3Arena",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "Brenn! - Amateur At Best World Tour 2026",
+        "venue": "Green Room at The Academy",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
