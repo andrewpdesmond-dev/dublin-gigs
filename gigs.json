@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-21",
-        "act": "Olivia Dean - the Art of Loving Live",
-        "venue": "Marlay Park",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-21",
-        "act": "Metallica: M72 World Tour | 1-Day Ticket (Sunday 21st June 2026)",
-        "venue": "Aviva Stadium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-21",
-        "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
-        "venue": "The Button Factory",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-21",
-        "act": "Metallica: M72 World Tour | 2-Day Ticket (Fri 19 + Sun 21 June'26)",
-        "venue": "Aviva Stadium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-22",
         "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
         "venue": "The Button Factory",
@@ -69,7 +37,7 @@
         "venue": "The Ruby Sessions",
         "genre": "Folk",
         "price": "Check Site",
-        "status": "Sold Out"
+        "status": "Available"
     },
     {
         "date": "2026-06-24",
@@ -396,6 +364,38 @@
         "act": "Brenn! - Amateur At Best World Tour 2026",
         "venue": "Green Room at The Academy",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "OMD - Orchestral Manoeuvres in the Dark",
+        "venue": "Trinity College",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "Valtos Presents: High Water Mark",
+        "venue": "The Grand Social",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "Thaiboy Digital - Underworld Tour",
+        "venue": "Opium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "The Scratch - World Tour 2026",
+        "venue": "Iveagh Gardens",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
