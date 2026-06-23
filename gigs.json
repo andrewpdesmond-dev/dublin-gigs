@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-06-22",
-        "act": "Buffalo Traffic Jam - Take Me Home Tour Europe 2026",
-        "venue": "The Button Factory",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-23",
         "act": "Lewis Capaldi",
         "venue": "Marlay Park",
@@ -305,7 +297,7 @@
     },
     {
         "date": "2026-07-03",
-        "act": "Wolfe Tones",
+        "act": "The Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -353,7 +345,7 @@
     },
     {
         "date": "2026-07-04",
-        "act": "Wolfe Tones",
+        "act": "The Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -369,7 +361,7 @@
     },
     {
         "date": "2026-07-04",
-        "act": "OMD - Orchestral Manoeuvres in the Dark",
+        "act": "OMD",
         "venue": "Trinity College",
         "genre": "Rock",
         "price": "Check Site",
@@ -395,6 +387,14 @@
         "date": "2026-07-04",
         "act": "The Scratch - World Tour 2026",
         "venue": "Iveagh Gardens",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-05",
+        "act": "Mumford & Sons - VIP Area Upgrade (must have a Front Standing Ticket)",
+        "venue": "Marlay Park",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
