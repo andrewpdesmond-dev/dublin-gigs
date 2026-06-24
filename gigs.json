@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-23",
-        "act": "Lewis Capaldi",
-        "venue": "Marlay Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-23",
-        "act": "Knocked Loose",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-23",
-        "act": "Royel Otis",
-        "venue": "National Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-23",
-        "act": "The Ruby Sessions",
-        "venue": "The Ruby Sessions",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-24",
         "act": "Lewis Capaldi",
         "venue": "Marlay Park",
@@ -395,6 +363,38 @@
         "date": "2026-07-05",
         "act": "Mumford & Sons - VIP Area Upgrade (must have a Front Standing Ticket)",
         "venue": "Marlay Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-05",
+        "act": "Mumford & Sons - Prizefighter Tour",
+        "venue": "Marlay Park",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-05",
+        "act": "The Kooks",
+        "venue": "Trinity College",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-05",
+        "act": "USTED SE\u00d1ALEMELO - T\u00c9RMINOS & CONDICIONES TOUR",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-05",
+        "act": "Elvis Costello & The Imposters with Charlie Sexton",
+        "venue": "Iveagh Gardens",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
