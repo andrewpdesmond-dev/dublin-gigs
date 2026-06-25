@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-24",
-        "act": "Lewis Capaldi",
-        "venue": "Marlay Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-24",
-        "act": "Robyn - the sexistential tour",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-24",
-        "act": "Two Door Cinema Club",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-24",
-        "act": "Dirty Blond",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-25",
         "act": "Dropkick Murphys",
         "venue": "Fairview Park",
@@ -396,6 +364,38 @@
         "act": "Elvis Costello & The Imposters with Charlie Sexton",
         "venue": "Iveagh Gardens",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-06",
+        "act": "Vulfpeck",
+        "venue": "Vicar Street",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-07",
+        "act": "Pitbull - VIP Area Upgrade (must have a Front Standing Ticket)",
+        "venue": "Marlay Park",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-07",
+        "act": "Pitbull  - I'm Back!",
+        "venue": "Marlay Park",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-08",
+        "act": "Los Tucanes De Tijuana",
+        "venue": "The Academy",
+        "genre": "Latin",
         "price": "Check Site",
         "status": "Available"
     }
