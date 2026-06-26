@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-06-25",
-        "act": "Dropkick Murphys",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-25",
-        "act": "Have Mercy",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-25",
-        "act": "Culture Wars",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-25",
-        "act": "Mick Flannery - \"The House Must Win\" Album Release Show",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-26",
         "act": "The Cure",
         "venue": "Marlay Park",
@@ -396,6 +364,38 @@
         "act": "Los Tucanes De Tijuana",
         "venue": "The Academy",
         "genre": "Latin",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-09",
+        "act": "I Am the Avalanche",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-09",
+        "act": "Stella Lefty",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-09",
+        "act": "Dead Pioneers",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-10",
+        "act": "Johnny Marr",
+        "venue": "Iveagh Gardens",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
