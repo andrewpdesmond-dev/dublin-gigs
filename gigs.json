@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-06-26",
-        "act": "The Cure",
-        "venue": "Marlay Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-26",
-        "act": "Mick Flannery - \"The House Must Win\" Album Release Show",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-27",
         "act": "Calvin Harris",
         "venue": "Marlay Park",
@@ -395,6 +379,22 @@
         "date": "2026-07-10",
         "act": "Johnny Marr",
         "venue": "Iveagh Gardens",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-10",
+        "act": "Best of Bob Dylan (Tribute) - Live in Lucan - July 10",
+        "venue": "Courtney's of Lucan",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-10",
+        "act": "Pansy Division",
+        "venue": "The Grand Social",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
