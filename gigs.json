@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-06-27",
-        "act": "Calvin Harris",
-        "venue": "Marlay Park",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-27",
-        "act": "Ethel Cain - the Willoughby Tucker Forever Tour",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-27",
-        "act": "George Murphy & The Rising Sons \u2013 The Ultimate Session Tour 2026",
-        "venue": "Bonnington Hotel",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-27",
-        "act": "Superchunk",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-27",
-        "act": "The Phantoms of the Popera",
-        "venue": "Ambassador Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-06-27",
-        "act": "Stipe Tribute To R.E.M.",
-        "venue": "Whelans",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-28",
         "act": "Florence + The Machine - The Everybody Scream Tour",
         "venue": "Marlay Park",
@@ -396,6 +348,54 @@
         "act": "Pansy Division",
         "venue": "The Grand Social",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-10",
+        "act": "The Wellermen",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-11",
+        "act": "Dermot Kennedy",
+        "venue": "Aviva Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-11",
+        "act": "Booka Shade: the Final Show",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-11",
+        "act": "Bell X1",
+        "venue": "Iveagh Gardens",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-11",
+        "act": "Goodtime John",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-11",
+        "act": "Mack Fleetwood",
+        "venue": "Whelans",
+        "genre": "Undefined",
         "price": "Check Site",
         "status": "Available"
     }
