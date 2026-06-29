@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-06-28",
-        "act": "Florence + The Machine - The Everybody Scream Tour",
-        "venue": "Marlay Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-28",
-        "act": "Paul Weller",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-06-29",
         "act": "Femtanyl - Man Bites Dog Tour",
         "venue": "The Academy",
@@ -137,7 +121,7 @@
     },
     {
         "date": "2026-07-03",
-        "act": "The Wolfe Tones",
+        "act": "Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -185,7 +169,7 @@
     },
     {
         "date": "2026-07-04",
-        "act": "The Wolfe Tones",
+        "act": "Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -201,7 +185,7 @@
     },
     {
         "date": "2026-07-04",
-        "act": "OMD",
+        "act": "OMD - Orchestral Manoeuvres in the Dark",
         "venue": "Trinity College",
         "genre": "Rock",
         "price": "Check Site",
@@ -396,6 +380,22 @@
         "act": "Mack Fleetwood",
         "venue": "Whelans",
         "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-12",
+        "act": "Dermot Kennedy",
+        "venue": "Aviva Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-12",
+        "act": "James Taylor & His All-Star Band",
+        "venue": "Iveagh Gardens",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
