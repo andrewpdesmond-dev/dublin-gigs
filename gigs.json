@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-06-30",
-        "act": "Lily Allen",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-30",
-        "act": "Empire of the Sun",
-        "venue": "Fairview Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-30",
-        "act": "Stephen Wilson Jr.",
-        "venue": "Trinity College",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-30",
-        "act": "Hayley Williams",
-        "venue": "National Stadium",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-30",
-        "act": "Jorge Aragao",
-        "venue": "The Academy",
-        "genre": "Latin",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-06-30",
-        "act": "Chezile",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-01",
         "act": "Lily Allen",
         "venue": "3Arena",
@@ -395,6 +347,54 @@
         "date": "2026-07-15",
         "act": "Lifehouse: Best of Acoustic",
         "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-15",
+        "act": "Gwenno",
+        "venue": "BELLOBAR",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-16",
+        "act": "Alexandra Savior",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-16",
+        "act": "James Morrison & Emeli Sande",
+        "venue": "Iveagh Gardens",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-17",
+        "act": "Pabllo Vittar Presents: Club Vittar",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-17",
+        "act": "The Castellows",
+        "venue": "Whelans",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-17",
+        "act": "Damien Dempsey",
+        "venue": "Iveagh Gardens",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
