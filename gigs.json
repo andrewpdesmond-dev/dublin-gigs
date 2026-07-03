@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-07-02",
-        "act": "Glen Hansard",
-        "venue": "Trinity College",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-02",
-        "act": "Pedro Sampaio",
-        "venue": "The Academy",
-        "genre": "Latin",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-02",
-        "act": "Nile Rodgers & CHIC",
-        "venue": "Iveagh Gardens",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-03",
         "act": "The Wolfe Tones",
         "venue": "3Arena",
@@ -73,7 +49,7 @@
     },
     {
         "date": "2026-07-04",
-        "act": "Wolfe Tones",
+        "act": "The Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -89,17 +65,9 @@
     },
     {
         "date": "2026-07-04",
-        "act": "OMD - Orchestral Manoeuvres in the Dark",
+        "act": "OMD",
         "venue": "Trinity College",
         "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "Valtos Presents: High Water Mark",
-        "venue": "The Grand Social",
-        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     },
@@ -108,6 +76,14 @@
         "act": "Thaiboy Digital - Underworld Tour",
         "venue": "Opium",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-04",
+        "act": "Valtos Presents: High Water Mark",
+        "venue": "The Grand Social",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     },
@@ -395,6 +371,30 @@
         "date": "2026-07-19",
         "act": "Charlie Puth - Whatever's Clever! World Tour",
         "venue": "Iveagh Gardens",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-20",
+        "act": "D.K. Harrell",
+        "venue": "The Grand Social",
+        "genre": "Blues",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-21",
+        "act": "December 10",
+        "venue": "National Stadium",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-22",
+        "act": "Beta Band",
+        "venue": "Vicar Street",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
