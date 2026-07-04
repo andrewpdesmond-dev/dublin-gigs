@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-07-03",
-        "act": "The Wolfe Tones",
-        "venue": "3Arena",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-03",
-        "act": "Cian Ducrot",
-        "venue": "Trinity College",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-03",
-        "act": "Goldbug",
-        "venue": "BELLOBAR",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-03",
-        "act": "Dylan Gossett",
-        "venue": "Iveagh Gardens",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-03",
-        "act": "The 4 OF Us - Lucan - July 3",
-        "venue": "Courtney's of Lucan",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-04",
         "act": "TAKE THAT - THE CIRCUS LIVE - Summer 2026",
         "venue": "Aviva Stadium",
@@ -65,7 +25,7 @@
     },
     {
         "date": "2026-07-04",
-        "act": "OMD",
+        "act": "OMD - Orchestral Manoeuvres in the Dark",
         "venue": "Trinity College",
         "genre": "Rock",
         "price": "Check Site",
@@ -396,6 +356,46 @@
         "act": "Beta Band",
         "venue": "Vicar Street",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-23",
+        "act": "The Specials Ltd",
+        "venue": "Green Room at The Academy",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-23",
+        "act": "AE MAK",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-24",
+        "act": "Nathan Carter at Swords Castle, Dublin (Gates 6pm)",
+        "venue": "Swords Castle",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-24",
+        "act": "Wolfe Tones",
+        "venue": "3Arena",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-24",
+        "act": "Paddy Power Comedy Festival - Bite The Bullet Comedy",
+        "venue": "Upstairs At Whelans",
+        "genre": "Comedy",
         "price": "Check Site",
         "status": "Available"
     }
