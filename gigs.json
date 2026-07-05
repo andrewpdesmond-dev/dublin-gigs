@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-07-04",
-        "act": "TAKE THAT - THE CIRCUS LIVE - Summer 2026",
-        "venue": "Aviva Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "The Wolfe Tones",
-        "venue": "3Arena",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "Brenn! - Amateur At Best World Tour 2026",
-        "venue": "Green Room at The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "OMD - Orchestral Manoeuvres in the Dark",
-        "venue": "Trinity College",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "Thaiboy Digital - Underworld Tour",
-        "venue": "Opium",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "Valtos Presents: High Water Mark",
-        "venue": "The Grand Social",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-04",
-        "act": "The Scratch - World Tour 2026",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-05",
         "act": "Mumford & Sons - VIP Area Upgrade (must have a Front Standing Ticket)",
         "venue": "Marlay Park",
@@ -297,6 +241,14 @@
     },
     {
         "date": "2026-07-17",
+        "act": "Ireland's #1 System of a Down and Limp Bizkit Tributes Live in Dublin",
+        "venue": "The Workmans Club",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-17",
         "act": "The Castellows",
         "venue": "Whelans",
         "genre": "Country",
@@ -385,7 +337,7 @@
     },
     {
         "date": "2026-07-24",
-        "act": "Wolfe Tones",
+        "act": "The Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -396,6 +348,54 @@
         "act": "Paddy Power Comedy Festival - Bite The Bullet Comedy",
         "venue": "Upstairs At Whelans",
         "genre": "Comedy",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-24",
+        "act": "Paddy Power Comedy Festival - Craic Den Comedy",
+        "venue": "Whelans",
+        "genre": "Comedy",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-25",
+        "act": "Paddy Power Comedy Festival - Riff Raff Comedy Reunion",
+        "venue": "Whelans",
+        "genre": "Comedy",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-25",
+        "act": "EMBRACE at Swords Castle, Dublin (Gates 6pm)",
+        "venue": "Swords Castle",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-25",
+        "act": "The Wolfe Tones",
+        "venue": "3Arena",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-25",
+        "act": "Bear McCreary - the Singularity Tour",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-07-26",
+        "act": "LENNY PEARCE: TODDLER RAVE WORLD TOUR PART 2",
+        "venue": "The Academy",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
