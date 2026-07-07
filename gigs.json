@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-06",
-        "act": "Vulfpeck",
-        "venue": "Vicar Street",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-07",
         "act": "Pitbull - VIP Area Upgrade (must have a Front Standing Ticket)",
         "venue": "Marlay Park",
@@ -82,10 +74,10 @@
     {
         "date": "2026-07-10",
         "act": "The Wellermen",
-        "venue": "Whelans",
+        "venue": "Upstairs At Whelans",
         "genre": "Folk",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-07-11",
@@ -388,6 +380,14 @@
         "act": "Joshua Ray Walker",
         "venue": "Upstairs At Whelans",
         "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-02",
+        "act": "Tkandz",
+        "venue": "Academy 2",
+        "genre": "Hip-Hop/Rap",
         "price": "Check Site",
         "status": "Available"
     }
