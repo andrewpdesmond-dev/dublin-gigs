@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-07",
-        "act": "Pitbull - VIP Area Upgrade (must have a Front Standing Ticket)",
-        "venue": "Marlay Park",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-07",
-        "act": "Pitbull  - I'm Back!",
-        "venue": "Marlay Park",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-08",
         "act": "Los Tucanes De Tijuana",
         "venue": "The Academy",
@@ -77,7 +61,7 @@
         "venue": "Upstairs At Whelans",
         "genre": "Folk",
         "price": "Check Site",
-        "status": "Sold Out"
+        "status": "Available"
     },
     {
         "date": "2026-07-11",
@@ -388,6 +372,22 @@
         "act": "Tkandz",
         "venue": "Academy 2",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-02",
+        "act": "Vio-lence",
+        "venue": "The Grand Social",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-02",
+        "act": "Opeth",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Metal",
         "price": "Check Site",
         "status": "Available"
     }
