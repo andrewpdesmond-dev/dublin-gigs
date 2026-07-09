@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-08",
-        "act": "Los Tucanes De Tijuana",
-        "venue": "The Academy",
-        "genre": "Latin",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-09",
         "act": "I Am the Avalanche",
         "venue": "The Grand Social",
@@ -273,7 +265,7 @@
     },
     {
         "date": "2026-07-24",
-        "act": "The Wolfe Tones",
+        "act": "Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -313,7 +305,7 @@
     },
     {
         "date": "2026-07-25",
-        "act": "The Wolfe Tones",
+        "act": "Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -390,5 +382,21 @@
         "genre": "Metal",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-08-03",
+        "act": "Northlane",
+        "venue": "The Academy",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-09",
+        "act": "Listening Party",
+        "venue": "The Big Romance",
+        "genre": "Indie/Alt",
+        "price": "See Nialler9",
+        "status": "Check Site"
     }
 ]
