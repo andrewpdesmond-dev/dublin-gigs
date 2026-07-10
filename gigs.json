@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-07-09",
-        "act": "I Am the Avalanche",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-09",
-        "act": "Stella Lefty",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-09",
-        "act": "Dead Pioneers",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-10",
         "act": "Johnny Marr",
         "venue": "Iveagh Gardens",
@@ -125,7 +101,7 @@
         "venue": "Whelans",
         "genre": "Rock",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-07-15",
@@ -265,7 +241,7 @@
     },
     {
         "date": "2026-07-24",
-        "act": "Wolfe Tones",
+        "act": "The Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -305,7 +281,7 @@
     },
     {
         "date": "2026-07-25",
-        "act": "Wolfe Tones",
+        "act": "The Wolfe Tones",
         "venue": "3Arena",
         "genre": "Folk",
         "price": "Check Site",
@@ -392,7 +368,31 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-09",
+        "date": "2026-08-05",
+        "act": "Cryptopsy",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-07",
+        "act": "Zo\u00e9 Basha at Howth Roots & Blues Festival 2026",
+        "venue": "Abbey Tavern",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-08",
+        "act": "Crow Black Chicken at Howth Roots & Blues Festival 2026",
+        "venue": "Abbey Tavern",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-10",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
