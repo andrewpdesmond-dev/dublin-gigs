@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-07-10",
-        "act": "Johnny Marr",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-10",
-        "act": "Best of Bob Dylan (Tribute) - Live in Lucan - July 10",
-        "venue": "Courtney's of Lucan",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-10",
-        "act": "Pansy Division",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-10",
-        "act": "The Wellermen",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-11",
         "act": "Dermot Kennedy",
         "venue": "Aviva Stadium",
@@ -392,7 +360,39 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-10",
+        "date": "2026-08-08",
+        "act": "Bonnie Raitt - A Celebration at Howth Roots & Blues Festival 2026",
+        "venue": "Abbey Tavern",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-08",
+        "act": "Guitar Legends Triple Bill at Howth Roots and Blues 26",
+        "venue": "The Summit Inn",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-08",
+        "act": "Limehouse Lizzy - Tribute To Thin Lizzy",
+        "venue": "Whelans",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-08",
+        "act": "Miss Kaninna",
+        "venue": "Upstairs At Whelans",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-07-11",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
