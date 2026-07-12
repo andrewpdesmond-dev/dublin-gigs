@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-07-11",
-        "act": "Dermot Kennedy",
-        "venue": "Aviva Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-11",
-        "act": "Booka Shade: the Final Show",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-11",
-        "act": "Bell X1",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-11",
-        "act": "Goodtime John",
-        "venue": "BELLOBAR",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-11",
-        "act": "Mack Fleetwood",
-        "venue": "Whelans",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-12",
         "act": "Dermot Kennedy",
         "venue": "Aviva Stadium",
@@ -392,7 +352,47 @@
         "status": "Sold Out"
     },
     {
-        "date": "2026-07-11",
+        "date": "2026-08-09",
+        "act": "Rob Strong at Howth Roots & Blues Festival 2026",
+        "venue": "Abbey Tavern",
+        "genre": "Blues",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-09",
+        "act": "Women In Blues Triple Bill at Howth Roots and Blues 26",
+        "venue": "The Summit Inn",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-09",
+        "act": "Sepultura",
+        "venue": "3Arena",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-09",
+        "act": "Hothouse Flowers Acoustic at Howth Roots & Blues Festival 2026",
+        "venue": "Abbey Tavern",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-11",
+        "act": "JOJI: SOLARIS",
+        "venue": "3Arena",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-12",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
