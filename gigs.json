@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-12",
-        "act": "Dermot Kennedy",
-        "venue": "Aviva Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-12",
-        "act": "James Taylor & His All-Star Band",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-14",
         "act": "Breaking Benjamin",
         "venue": "National Stadium",
@@ -392,7 +376,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-12",
+        "date": "2026-08-14",
+        "act": "Leon Majcen",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-15",
+        "act": "Shearling",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-13",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
