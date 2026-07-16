@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-15",
-        "act": "Lifehouse: Best of Acoustic",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-15",
-        "act": "Gwenno",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-16",
         "act": "Alexandra Savior",
         "venue": "The Academy",
@@ -392,7 +376,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-15",
+        "date": "2026-08-19",
+        "act": "Chat Pile",
+        "venue": "The Button Factory",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-20",
+        "act": "The Prodigy",
+        "venue": "IMMA",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-16",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
