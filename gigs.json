@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-16",
-        "act": "Alexandra Savior",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-16",
-        "act": "James Morrison & Emeli Sande",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-17",
         "act": "Pabllo Vittar Presents: Club Vittar",
         "venue": "The Button Factory",
@@ -392,7 +376,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-16",
+        "date": "2026-08-20",
+        "act": "Chat Pile",
+        "venue": "The Button Factory",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-21",
+        "act": "Moby",
+        "venue": "IMMA",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-17",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
