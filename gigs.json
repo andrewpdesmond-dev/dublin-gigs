@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-18",
-        "act": "D.R.I.",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-18",
-        "act": "Garbage",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-19",
         "act": "Charlie Puth - Whatever's Clever! World Tour",
         "venue": "Iveagh Gardens",
@@ -392,7 +376,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-18",
+        "date": "2026-08-22",
+        "act": "Mount Pyrus",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-22",
+        "act": "Johnny Logan",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-19",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
