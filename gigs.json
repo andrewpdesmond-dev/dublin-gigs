@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-19",
-        "act": "Charlie Puth - Whatever's Clever! World Tour",
-        "venue": "Iveagh Gardens",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-20",
         "act": "D.K. Harrell",
         "venue": "The Grand Social",
@@ -392,7 +384,15 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-19",
+        "date": "2026-08-22",
+        "act": "Let it Beatles Live in Swords - Aug 22",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-20",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
