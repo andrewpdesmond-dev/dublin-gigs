@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-20",
-        "act": "D.K. Harrell",
-        "venue": "The Grand Social",
-        "genre": "Blues",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-21",
         "act": "December 10",
         "venue": "National Stadium",
@@ -392,11 +384,11 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-20",
-        "act": "Listening Party",
-        "venue": "The Big Romance",
-        "genre": "Indie/Alt",
-        "price": "See Nialler9",
-        "status": "Check Site"
+        "date": "2026-08-23",
+        "act": "The Weeknd: After Hours Til Dawn Tour",
+        "venue": "Croke Park",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
