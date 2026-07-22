@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-21",
-        "act": "December 10",
-        "venue": "National Stadium",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-22",
         "act": "Beta Band",
         "venue": "Vicar Street",
@@ -390,5 +382,21 @@
         "genre": "Hip-Hop/Rap",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-08-23",
+        "act": "Dorofeeva",
+        "venue": "The Academy",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-22",
+        "act": "Listening Party",
+        "venue": "The Big Romance",
+        "genre": "Indie/Alt",
+        "price": "See Nialler9",
+        "status": "Check Site"
     }
 ]
