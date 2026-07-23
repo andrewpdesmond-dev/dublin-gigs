@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-22",
-        "act": "Beta Band",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-23",
         "act": "The Specials Ltd",
         "venue": "Green Room at The Academy",
@@ -392,7 +384,15 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-22",
+        "date": "2026-08-23",
+        "act": "Babyshambles",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-23",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
