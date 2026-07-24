@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-23",
-        "act": "The Specials Ltd",
-        "venue": "Green Room at The Academy",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-23",
-        "act": "AE MAK",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-24",
         "act": "Nathan Carter at Swords Castle, Dublin (Gates 6pm)",
         "venue": "Swords Castle",
@@ -392,7 +376,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-23",
+        "date": "2026-08-24",
+        "act": "Prostitute",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-08-25",
+        "act": "Deftones",
+        "venue": "IMMA",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-24",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
