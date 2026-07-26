@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-07-25",
-        "act": "Paddy Power Comedy Festival - Riff Raff Comedy Reunion",
-        "venue": "Whelans",
-        "genre": "Comedy",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-25",
-        "act": "EMBRACE at Swords Castle, Dublin (Gates 6pm)",
-        "venue": "Swords Castle",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-25",
-        "act": "The Wolfe Tones",
-        "venue": "3Arena",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-25",
-        "act": "Bear McCreary - the Singularity Tour",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-07-26",
         "act": "LENNY PEARCE: TODDLER RAVE WORLD TOUR PART 2",
         "venue": "The Academy",
@@ -392,7 +360,39 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-25",
+        "date": "2026-08-25",
+        "act": "Day We Ran",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-26",
+        "act": "Amyl and the Sniffers",
+        "venue": "Collins Barracks",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-26",
+        "act": "Earl Sweatshirt & MIKE",
+        "venue": "Vicar Street",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-26",
+        "act": "Arrested Development",
+        "venue": "The Button Factory",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-26",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
