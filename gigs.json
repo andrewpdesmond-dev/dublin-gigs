@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-26",
-        "act": "LENNY PEARCE: TODDLER RAVE WORLD TOUR PART 2",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-29",
         "act": "GLU",
         "venue": "Whelans",
@@ -41,6 +33,14 @@
     },
     {
         "date": "2026-08-02",
+        "act": "Opeth",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-02",
         "act": "Tkandz",
         "venue": "Academy 2",
         "genre": "Hip-Hop/Rap",
@@ -51,14 +51,6 @@
         "date": "2026-08-02",
         "act": "Vio-lence",
         "venue": "The Grand Social",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-02",
-        "act": "Opeth",
-        "venue": "Bord Gais Energy Theatre",
         "genre": "Metal",
         "price": "Check Site",
         "status": "Available"
@@ -392,7 +384,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-26",
+        "date": "2026-08-26",
+        "act": "Prewn",
+        "venue": "The Grand Social",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-27",
+        "act": "Faye Webster",
+        "venue": "Collins Barracks",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-27",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
