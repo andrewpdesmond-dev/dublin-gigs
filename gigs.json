@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-07-29",
-        "act": "GLU",
-        "venue": "Whelans",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-07-30",
         "act": "Julian Marley",
         "venue": "The Academy",
@@ -400,7 +392,15 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-29",
+        "date": "2026-08-27",
+        "act": "Current Joys",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-30",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
