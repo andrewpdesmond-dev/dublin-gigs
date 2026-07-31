@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-07-30",
-        "act": "Julian Marley",
-        "venue": "The Academy",
-        "genre": "Reggae",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-07-30",
-        "act": "Clearwater Creedence Revival + Eric Bell",
-        "venue": "Opium",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-01",
         "act": "Joshua Ray Walker",
         "venue": "Upstairs At Whelans",
@@ -400,7 +384,23 @@
         "status": "Available"
     },
     {
-        "date": "2026-07-30",
+        "date": "2026-08-27",
+        "act": "Sex Mask",
+        "venue": "Ballroom AT Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-28",
+        "act": "berlioz",
+        "venue": "Collins Barracks",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-07-31",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
