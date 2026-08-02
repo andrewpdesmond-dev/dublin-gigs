@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-01",
-        "act": "Joshua Ray Walker",
-        "venue": "Upstairs At Whelans",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-02",
         "act": "Opeth",
         "venue": "Bord Gais Energy Theatre",
@@ -400,7 +392,15 @@
         "status": "Available"
     },
     {
-        "date": "2026-08-01",
+        "date": "2026-08-28",
+        "act": "Jalen Ngonda",
+        "venue": "National Stadium",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-02",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
