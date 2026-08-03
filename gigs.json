@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-08-02",
-        "act": "Opeth",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-02",
-        "act": "Tkandz",
-        "venue": "Academy 2",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-08-02",
-        "act": "Vio-lence",
-        "venue": "The Grand Social",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-02",
-        "act": "Mundy",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-03",
         "act": "Northlane",
         "venue": "The Academy",
@@ -400,7 +368,39 @@
         "status": "Available"
     },
     {
-        "date": "2026-08-02",
+        "date": "2026-08-28",
+        "act": "Joy Anonymous",
+        "venue": "The Workmans Club",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-28",
+        "act": "White Denim",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-28",
+        "act": "The Dubliners Encore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-29",
+        "act": "The Dubliners Encore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-03",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
