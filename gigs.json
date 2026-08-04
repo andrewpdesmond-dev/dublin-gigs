@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-03",
-        "act": "Northlane",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-05",
         "act": "Cryptopsy",
         "venue": "Whelans",
@@ -400,7 +392,15 @@
         "status": "Available"
     },
     {
-        "date": "2026-08-03",
+        "date": "2026-08-29",
+        "act": "Mac DeMarco",
+        "venue": "Collins Barracks",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-08-04",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
