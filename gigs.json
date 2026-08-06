@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-05",
-        "act": "Cryptopsy",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-07",
         "act": "Zo\u00e9 Basha at Howth Roots & Blues Festival 2026",
         "venue": "Abbey Tavern",
@@ -400,7 +392,15 @@
         "status": "Sold Out"
     },
     {
-        "date": "2026-08-05",
+        "date": "2026-08-29",
+        "act": "Loyle Carner",
+        "venue": "National Stadium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-06",
         "act": "Listening Party",
         "venue": "The Big Romance",
         "genre": "Indie/Alt",
