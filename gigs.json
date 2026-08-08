@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-07",
-        "act": "Zo\u00e9 Basha at Howth Roots & Blues Festival 2026",
-        "venue": "Abbey Tavern",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-08",
         "act": "Crow Black Chicken at Howth Roots & Blues Festival 2026",
         "venue": "Abbey Tavern",
@@ -400,11 +392,11 @@
         "status": "Available"
     },
     {
-        "date": "2026-08-07",
-        "act": "Listening Party",
-        "venue": "The Big Romance",
-        "genre": "Indie/Alt",
-        "price": "See Nialler9",
-        "status": "Check Site"
+        "date": "2026-08-29",
+        "act": "Seventh Wonder performs The Ultimate Fleetwood Mac",
+        "venue": "Ambassador Theatre",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
