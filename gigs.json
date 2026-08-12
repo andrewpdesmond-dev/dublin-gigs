@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-11",
-        "act": "JOJI: SOLARIS",
-        "venue": "3Arena",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-14",
         "act": "Leon Majcen",
         "venue": "Upstairs At Whelans",
@@ -390,5 +382,13 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-08-31",
+        "act": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
+        "venue": "3Olympia Theatre",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
