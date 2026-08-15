@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-14",
-        "act": "Leon Majcen",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-15",
         "act": "Shearling",
         "venue": "The Grand Social",
@@ -390,5 +382,13 @@
         "genre": "Country",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-08-31",
+        "act": "Fatboi Sharif",
+        "venue": "BELLOBAR",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
