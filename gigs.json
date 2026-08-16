@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-15",
-        "act": "Shearling",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-18",
         "act": "Erin Kinsey",
         "venue": "Green Room at The Academy",
@@ -388,6 +380,14 @@
         "act": "Fatboi Sharif",
         "venue": "BELLOBAR",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-08-31",
+        "act": "Allah Las",
+        "venue": "Whelans",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
