@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-19",
-        "act": "Chat Pile",
-        "venue": "The Button Factory",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-20",
         "act": "The Prodigy",
         "venue": "IMMA",
@@ -234,7 +226,7 @@
     {
         "date": "2026-08-28",
         "act": "Jalen Ngonda",
-        "venue": "National Stadium",
+        "venue": "The Academy",
         "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
@@ -377,7 +369,7 @@
     },
     {
         "date": "2026-08-31",
-        "act": "Allah-Las",
+        "act": "Allah Las",
         "venue": "Whelans",
         "genre": "Rock",
         "price": "Check Site",
@@ -388,6 +380,14 @@
         "act": "KATSEYE: THE WILDWORLD TOUR",
         "venue": "3Arena",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-01",
+        "act": "Jack White - Live 2026",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
