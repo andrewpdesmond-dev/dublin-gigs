@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-08-20",
-        "act": "The Prodigy",
-        "venue": "IMMA",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-20",
-        "act": "Chat Pile",
-        "venue": "The Button Factory",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-21",
         "act": "Moby",
         "venue": "IMMA",
@@ -369,7 +353,7 @@
     },
     {
         "date": "2026-08-31",
-        "act": "Allah Las",
+        "act": "Allah-Las",
         "venue": "Whelans",
         "genre": "Rock",
         "price": "Check Site",
@@ -387,6 +371,22 @@
         "date": "2026-09-01",
         "act": "Jack White - Live 2026",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-01",
+        "act": "Isabel van Gelder",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-01",
+        "act": "Boyce Avenue",
+        "venue": "Opium",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
