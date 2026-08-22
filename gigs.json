@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-08-21",
-        "act": "Moby",
-        "venue": "IMMA",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-21",
-        "act": "Stiff Little Fingers",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-21",
-        "act": "The Wailers",
-        "venue": "Vicar Street",
-        "genre": "Reggae",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-22",
         "act": "The Weeknd: After Hours Til Dawn Tour",
         "venue": "Croke Park",
@@ -353,7 +329,7 @@
     },
     {
         "date": "2026-08-31",
-        "act": "Allah-Las",
+        "act": "Allah Las",
         "venue": "Whelans",
         "genre": "Rock",
         "price": "Check Site",
@@ -377,7 +353,7 @@
     },
     {
         "date": "2026-09-01",
-        "act": "Isabel van Gelder",
+        "act": "Isabel Van Gelder",
         "venue": "Academy 2",
         "genre": "Pop",
         "price": "Check Site",
@@ -388,6 +364,30 @@
         "act": "Boyce Avenue",
         "venue": "Opium",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-01",
+        "act": "Lowertown",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-01",
+        "act": "Kings of Thrash ft. David Ellefson & Jeff Young",
+        "venue": "The Sound House",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-01",
+        "act": "Lily Fitts",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
