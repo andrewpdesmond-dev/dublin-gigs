@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-08-24",
-        "act": "Prostitute",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-08-25",
         "act": "Deftones",
         "venue": "IMMA",
@@ -21,7 +13,7 @@
         "venue": "Collins Barracks",
         "genre": "Rock",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-08-25",
@@ -390,5 +382,13 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-09-03",
+        "act": "Chris Norman",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
