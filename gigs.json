@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-08-26",
-        "act": "Amyl and the Sniffers",
-        "venue": "Collins Barracks",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-26",
-        "act": "Earl Sweatshirt & MIKE",
-        "venue": "Vicar Street",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-26",
-        "act": "Arrested Development",
-        "venue": "The Button Factory",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-26",
-        "act": "Prewn",
-        "venue": "The Grand Social",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-27",
         "act": "Faye Webster",
         "venue": "Collins Barracks",
@@ -387,6 +355,38 @@
         "date": "2026-09-05",
         "act": "Mulaa Joans",
         "venue": "Green Room at The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-05",
+        "act": "Rachel Chinouriri",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-05",
+        "act": "Hana Stretton",
+        "venue": "The Unitarian Church",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-05",
+        "act": "Brothers Comatose",
+        "venue": "The Sound House",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Hilary Duff: the lucky me tour",
+        "venue": "3Arena",
         "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
