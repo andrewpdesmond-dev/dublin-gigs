@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-08-27",
-        "act": "Faye Webster",
-        "venue": "Collins Barracks",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-27",
-        "act": "Current Joys",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-27",
-        "act": "Sex Mask",
-        "venue": "Ballroom AT Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-28",
         "act": "berlioz",
         "venue": "Collins Barracks",
@@ -388,6 +364,30 @@
         "act": "Hilary Duff: the lucky me tour",
         "venue": "3Arena",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Jeff Buckley Tribute",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Allie Sherlock - for Once I'll Say It Out Loud Tour 2026",
+        "venue": "Ambassador Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Headsend",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
