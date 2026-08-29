@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-08-28",
-        "act": "berlioz",
-        "venue": "Collins Barracks",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-28",
-        "act": "Jalen Ngonda",
-        "venue": "The Academy",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-28",
-        "act": "Joy Anonymous",
-        "venue": "The Workmans Club",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-28",
-        "act": "White Denim",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-28",
-        "act": "The Dubliners Encore",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-08-29",
         "act": "The Dubliners Encore",
         "venue": "Vicar Street",
@@ -388,6 +348,46 @@
         "act": "Headsend",
         "venue": "Upstairs At Whelans",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Frost Children",
+        "venue": "Opium",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Sigur Ros With The Ulster Orchestra - Premium Priced Seats",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Sigur Ros With The Ulster Orchestra",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "The Lizberries - Cranberries Tribute - Lucan - Sept 6",
+        "venue": "Courtney's of Lucan",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-06",
+        "act": "Frost Children - Afterparty",
+        "venue": "Tengu Dublin",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
