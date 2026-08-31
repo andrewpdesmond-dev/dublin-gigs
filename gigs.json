@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-08-30",
-        "act": "Bon Jovi",
-        "venue": "Croke Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-30",
-        "act": "Super Furry Animals",
-        "venue": "Collins Barracks",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-30",
-        "act": "Hovvdy",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-30",
-        "act": "Way Dynamic",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-30",
-        "act": "The Dubliners Encore",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-08-31",
         "act": "Clarion",
         "venue": "The Grand Social",
@@ -65,7 +25,7 @@
     },
     {
         "date": "2026-08-31",
-        "act": "Allah-Las",
+        "act": "Allah Las",
         "venue": "Whelans",
         "genre": "Rock",
         "price": "Check Site",
@@ -89,7 +49,7 @@
     },
     {
         "date": "2026-09-01",
-        "act": "Isabel van Gelder",
+        "act": "Isabel Van Gelder",
         "venue": "Academy 2",
         "genre": "Pop",
         "price": "Check Site",
@@ -265,7 +225,7 @@
     },
     {
         "date": "2026-09-05",
-        "act": "The Brothers Comatose",
+        "act": "Brothers Comatose",
         "venue": "The Sound House",
         "genre": "Rock",
         "price": "Check Site",
@@ -396,6 +356,46 @@
         "act": "Last Days of Dalymount: F.D.C DJ's + Theatre + Black Nylon",
         "venue": "Dalymount Park",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-10",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-10",
+        "act": "Chris Boldt",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-11",
+        "act": "Last Days of Dalymount: Annie Mac",
+        "venue": "Dalymount Park",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-11",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-11",
+        "act": "Maddie Zahm",
+        "venue": "Academy 2",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     }
