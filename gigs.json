@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-08-31",
-        "act": "Clarion",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-31",
-        "act": "Bailey Zimmerman: Different Night Same Rodeo Tour 2026",
-        "venue": "3Olympia Theatre",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-08-31",
-        "act": "Fatboi Sharif",
-        "venue": "BELLOBAR",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-08-31",
-        "act": "Allah Las",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-01",
         "act": "KATSEYE: THE WILDWORLD TOUR",
         "venue": "3Arena",
@@ -49,7 +17,7 @@
     },
     {
         "date": "2026-09-01",
-        "act": "Isabel Van Gelder",
+        "act": "Isabel van Gelder",
         "venue": "Academy 2",
         "genre": "Pop",
         "price": "Check Site",
@@ -225,7 +193,7 @@
     },
     {
         "date": "2026-09-05",
-        "act": "Brothers Comatose",
+        "act": "The Brothers Comatose",
         "venue": "The Sound House",
         "genre": "Rock",
         "price": "Check Site",
@@ -396,6 +364,38 @@
         "act": "Maddie Zahm",
         "venue": "Academy 2",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-11",
+        "act": "Michael Starring Ben",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-11",
+        "act": "Sei Green",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-11",
+        "act": "Michael Shannon & Jason Narducy & Friends",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Last Days of Dalymount - John Francis Flynn & Bricknasty",
+        "venue": "Dalymount Park",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
