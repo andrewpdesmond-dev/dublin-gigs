@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-09-01",
-        "act": "KATSEYE: THE WILDWORLD TOUR",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Jack White - Live 2026",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Isabel van Gelder",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Boyce Avenue",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Lowertown",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Kings of Thrash ft. David Ellefson & Jeff Young",
-        "venue": "The Sound House",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Lily Fitts",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-01",
-        "act": "Marie Davidson - Debut Dublin Show",
-        "venue": "Whelans",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-02",
         "act": "A$AP Rocky - Don't Be Dumb World Tour",
         "venue": "3Arena",
@@ -193,7 +129,7 @@
     },
     {
         "date": "2026-09-05",
-        "act": "The Brothers Comatose",
+        "act": "Brothers Comatose",
         "venue": "The Sound House",
         "genre": "Rock",
         "price": "Check Site",
@@ -396,6 +332,70 @@
         "act": "Last Days of Dalymount - John Francis Flynn & Bricknasty",
         "venue": "Dalymount Park",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Jenny Greene",
+        "venue": "3Olympia Theatre",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Nirvana Tribute",
+        "venue": "Green Room at The Academy",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Birdtalker",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Cormac Begley",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Hudson Freeman",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-12",
+        "act": "Silverbacks",
+        "venue": "Bello Bar",
+        "genre": "Alternative",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-13",
+        "act": "Last Days of Dalymount: Johnny Logan",
+        "venue": "Dalymount Park",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
