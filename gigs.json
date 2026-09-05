@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-09-04",
-        "act": "Qween",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-04",
-        "act": "Pat Hamilton",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-04",
-        "act": "Chris Norman",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-04",
-        "act": "Etienne De Crecy (DJ Set)",
-        "venue": "The Workmans Club",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-05",
         "act": "The Waterboys - Fisherman's Blues Revue featuring Steve Earle",
         "venue": "3Arena",
@@ -395,6 +363,38 @@
         "date": "2026-09-15",
         "act": "Anastacia",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-15",
+        "act": "Ryan Davis and the Roadhouse Band",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-15",
+        "act": "James Felice",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-15",
+        "act": "Daily J",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-16",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
