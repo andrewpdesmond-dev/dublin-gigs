@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-09-05",
-        "act": "The Waterboys - Fisherman's Blues Revue featuring Steve Earle",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-05",
-        "act": "Mulaa Joans",
-        "venue": "Green Room at The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-05",
-        "act": "Rachel Chinouriri",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-05",
-        "act": "Hana Stretton",
-        "venue": "The Unitarian Church",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-05",
-        "act": "Brothers Comatose",
-        "venue": "The Sound House",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-06",
         "act": "Hilary Duff: the lucky me tour",
         "venue": "3Arena",
@@ -396,6 +356,46 @@
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-16",
+        "act": "As It Is",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-16",
+        "act": "Death Cab for Cutie",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-16",
+        "act": "Billy Ocean",
+        "venue": "National Stadium",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-16",
+        "act": "Frog",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-16",
+        "act": "Olivia Belli - Piano Trio",
+        "venue": "The Sugar Club",
+        "genre": "Classical",
         "price": "Check Site",
         "status": "Available"
     }
