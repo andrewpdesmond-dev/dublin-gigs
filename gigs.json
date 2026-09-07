@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-09-06",
-        "act": "Hilary Duff: the lucky me tour",
-        "venue": "3Arena",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Jeff Buckley Tribute",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Allie Sherlock - for Once I'll Say It Out Loud Tour 2026",
-        "venue": "Ambassador Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Headsend",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Frost Children",
-        "venue": "Opium",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Sigur Ros With The Ulster Orchestra - Premium Priced Seats",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Sigur Ros With The Ulster Orchestra",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "The Lizberries - Cranberries Tribute - Lucan - Sept 6",
-        "venue": "Courtney's of Lucan",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-06",
-        "act": "Frost Children - Afterparty",
-        "venue": "Tengu Dublin",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-07",
         "act": "Freya Ridings: Mother of Pearl Tour",
         "venue": "3Olympia Theatre",
@@ -396,6 +324,78 @@
         "act": "Olivia Belli - Piano Trio",
         "venue": "The Sugar Club",
         "genre": "Classical",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-17",
+        "act": "Havok",
+        "venue": "Whelans",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-17",
+        "act": "Death Cab for Cutie",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-17",
+        "act": "Chasing Abbey",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-17",
+        "act": "Lauren Wallace",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-18",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-18",
+        "act": "Anastacia",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-18",
+        "act": "The Lemonheads",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-18",
+        "act": "Sell Everything - 'how Do I Even Park This Thing?' Tour",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-18",
+        "act": "DJ Seinfeld",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     }
