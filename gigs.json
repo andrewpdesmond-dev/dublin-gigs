@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-09-07",
-        "act": "Freya Ridings: Mother of Pearl Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-07",
-        "act": "Sigur Ros With The Ulster Orchestra - Premium Priced Seats",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-07",
-        "act": "Sigur Ros With The Ulster Orchestra",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-09",
         "act": "ALL THE FEELINGS TOUR with METRIC, BROKEN SOCIAL SCENE, AND STARS",
         "venue": "3Olympia Theatre",
@@ -389,11 +365,35 @@
         "venue": "The Workmans Club",
         "genre": "Rock",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-09-18",
         "act": "DJ Seinfeld",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-19",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-19",
+        "act": "Good Kid - Can We Hang Out? Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-19",
+        "act": "Holy F**k",
         "venue": "The Button Factory",
         "genre": "Dance/Electronic",
         "price": "Check Site",
