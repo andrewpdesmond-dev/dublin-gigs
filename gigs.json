@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-09-10",
-        "act": "Last Days of Dalymount: F.D.C DJ's + Theatre + Black Nylon",
-        "venue": "Dalymount Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-10",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-10",
-        "act": "Chris Boldt",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-11",
         "act": "Last Days of Dalymount: Annie Mac",
         "venue": "Dalymount Park",
@@ -124,14 +100,6 @@
         "act": "Hudson Freeman",
         "venue": "The Workmans Club",
         "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Silverbacks",
-        "venue": "Bello Bar",
-        "genre": "Alternative",
         "price": "Check Site",
         "status": "Available"
     },
@@ -395,6 +363,38 @@
         "date": "2026-09-19",
         "act": "Dead Bob",
         "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-20",
+        "act": "KPOP: Superslayers",
+        "venue": "Ambassador Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-09-20",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-20",
+        "act": "King Parrot",
+        "venue": "Academy 2",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-20",
+        "act": "Pacific Avenue",
+        "venue": "The Sound House",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
