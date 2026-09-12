@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-09-11",
-        "act": "Last Days of Dalymount: Annie Mac",
-        "venue": "Dalymount Park",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-11",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-11",
-        "act": "Maddie Zahm",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-11",
-        "act": "Michael Starring Ben",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-11",
-        "act": "Sei Green",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-11",
-        "act": "Michael Shannon & Jason Narducy & Friends",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-12",
         "act": "Last Days of Dalymount - John Francis Flynn & Bricknasty",
         "venue": "Dalymount Park",
@@ -337,7 +289,7 @@
     },
     {
         "date": "2026-09-19",
-        "act": "Holy F**k",
+        "act": "Holy F**K",
         "venue": "The Button Factory",
         "genre": "Dance/Electronic",
         "price": "Check Site",
@@ -395,6 +347,54 @@
         "date": "2026-09-20",
         "act": "Pacific Avenue",
         "venue": "The Sound House",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-20",
+        "act": "Anna Trincher",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-09-20",
+        "act": "MAN/WOMAN/CHAINSAW",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-21",
+        "act": "Playlunch",
+        "venue": "Whelans",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-21",
+        "act": "Feng",
+        "venue": "Vicar Street",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-22",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-22",
+        "act": "Saint Etienne",
+        "venue": "3Olympia Theatre",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
