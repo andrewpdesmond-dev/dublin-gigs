@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-09-12",
-        "act": "Last Days of Dalymount - John Francis Flynn & Bricknasty",
-        "venue": "Dalymount Park",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Jenny Greene",
-        "venue": "3Olympia Theatre",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Nirvana Tribute",
-        "venue": "Green Room at The Academy",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Birdtalker",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Cormac Begley",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-12",
-        "act": "Hudson Freeman",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-13",
         "act": "Last Days of Dalymount: Johnny Logan",
         "venue": "Dalymount Park",
@@ -289,7 +233,7 @@
     },
     {
         "date": "2026-09-19",
-        "act": "Holy F**K",
+        "act": "Holy F**k",
         "venue": "The Button Factory",
         "genre": "Dance/Electronic",
         "price": "Check Site",
@@ -395,6 +339,62 @@
         "date": "2026-09-22",
         "act": "Saint Etienne",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-22",
+        "act": "Mary in the Junkyard",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-22",
+        "act": "Francis of Delirium",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-23",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-23",
+        "act": "She Past Away",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-23",
+        "act": "Laura Veirs",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-23",
+        "act": "Katherine Priddy",
+        "venue": "The Sugar Club",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-24",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
