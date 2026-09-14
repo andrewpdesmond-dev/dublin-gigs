@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-09-13",
-        "act": "Last Days of Dalymount: Johnny Logan",
-        "venue": "Dalymount Park",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-13",
-        "act": "Cody Pennington",
-        "venue": "The Academy",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-13",
-        "act": "Michael Starring Ben THE MAGIC OF MICHAEL JACKSON",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-13",
-        "act": "Missio",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-09-14",
         "act": "Fancy Hagood",
         "venue": "The Workmans Club",
@@ -393,6 +361,38 @@
     },
     {
         "date": "2026-09-24",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-24",
+        "act": "Chrissy Chlapecka - Girl On The Moon UK & EU Tour",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-24",
+        "act": "Smithereens",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-24",
+        "act": "Westside Cowboy",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
         "genre": "Rock",
