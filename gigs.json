@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-09-15",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-15",
-        "act": "Wu Lyf",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-15",
-        "act": "Anastacia",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-15",
-        "act": "Ryan Davis and the Roadhouse Band",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-15",
-        "act": "James Felice",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-15",
-        "act": "Daily J",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-16",
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
@@ -396,6 +348,54 @@
         "act": "Lemoncello",
         "venue": "The Button Factory",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "Liana Flores",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "Unique Freaks",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "Keywest",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "Fake Saint",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "Dead Calm - Sign Crushes Motorist",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "Music of Nina Simone (Karen Underwood) - Lucan - Sept 25",
+        "venue": "Courtney's of Lucan",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
