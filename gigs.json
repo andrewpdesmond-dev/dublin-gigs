@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-09-16",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-16",
-        "act": "As It Is",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-16",
-        "act": "Death Cab for Cutie",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-16",
-        "act": "Billy Ocean",
-        "venue": "National Stadium",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-16",
-        "act": "Frog",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-16",
-        "act": "Olivia Belli - Piano Trio",
-        "venue": "The Sugar Club",
-        "genre": "Classical",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-17",
         "act": "Havok",
         "venue": "Whelans",
@@ -137,7 +89,7 @@
     },
     {
         "date": "2026-09-19",
-        "act": "Holy F**k",
+        "act": "Holy F**K",
         "venue": "The Button Factory",
         "genre": "Dance/Electronic",
         "price": "Check Site",
@@ -398,5 +350,53 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
+        "act": "William Tyler",
+        "venue": "BELLOBAR",
+        "genre": "Jazz",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-09-26",
+        "act": "Benediction",
+        "venue": "The Grand Social",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-26",
+        "act": "Westlife 25 - The Anniversary World Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-26",
+        "act": "dead calm",
+        "venue": "Opium",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-26",
+        "act": "Dar Williams",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-26",
+        "act": "Sixpence None the Richer",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
