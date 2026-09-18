@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-09-17",
-        "act": "Havok",
-        "venue": "Whelans",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-17",
-        "act": "Death Cab for Cutie",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-17",
-        "act": "Chasing Abbey",
-        "venue": "Vicar Street",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-17",
-        "act": "Lauren Wallace",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-18",
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
@@ -89,7 +57,7 @@
     },
     {
         "date": "2026-09-19",
-        "act": "Holy F**K",
+        "act": "Holy F**k",
         "venue": "The Button Factory",
         "genre": "Dance/Electronic",
         "price": "Check Site",
@@ -259,7 +227,7 @@
         "date": "2026-09-24",
         "act": "Chrissy Chlapecka - Girl On The Moon UK & EU Tour",
         "venue": "Academy 2",
-        "genre": "Pop",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     },
@@ -398,5 +366,37 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-09-26",
+        "act": "Music of Nina Simone (Karen Underwood) - Swords - Sept 26",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-27",
+        "act": "Holy Holy: the Final Tour - a Celebration of Bowie",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-27",
+        "act": "Joe Jackson - Hope and Fury Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-27",
+        "act": "Lucy Bedroque",
+        "venue": "Opium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
