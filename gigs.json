@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-09-21",
-        "act": "Playlunch",
-        "venue": "Whelans",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-21",
-        "act": "Feng",
-        "venue": "Vicar Street",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-22",
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
@@ -396,6 +380,22 @@
         "act": "Queen of the Night - A Tribute To Whitney Houston",
         "venue": "3Olympia Theatre",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-02",
+        "act": "The Blow Monkeys",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-02",
+        "act": "CASPER WALSH - Hustler Boogie Tour",
+        "venue": "Soho Dublin",
+        "genre": "Hip-Hop/Rap",
         "price": "Check Site",
         "status": "Available"
     }
