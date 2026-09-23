@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-09-22",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-22",
-        "act": "Saint Etienne",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-22",
-        "act": "Mary in the Junkyard",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-22",
-        "act": "Francis of Delirium",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-23",
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
@@ -396,6 +364,38 @@
         "act": "CASPER WALSH - Hustler Boogie Tour",
         "venue": "Soho Dublin",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-02",
+        "act": "Robyn Hitchcock",
+        "venue": "The Sugar Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-02",
+        "act": "Diveboy",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-02",
+        "act": "Paddy Casey Live in Lucan - Oct 2",
+        "venue": "Courtney's of Lucan",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-03",
+        "act": "Sebastian Schub",
+        "venue": "Academy 2",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
