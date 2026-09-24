@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-09-23",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-23",
-        "act": "She Past Away",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-23",
-        "act": "Laura Veirs",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-23",
-        "act": "Katherine Priddy",
-        "venue": "The Sugar Club",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-24",
         "act": "Westlife 25 - The Anniversary World Tour",
         "venue": "3Arena",
@@ -81,6 +49,14 @@
     },
     {
         "date": "2026-09-25",
+        "act": "Fake Saint",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-09-25",
         "act": "Lemoncello",
         "venue": "The Button Factory",
         "genre": "Folk",
@@ -107,14 +83,6 @@
         "date": "2026-09-25",
         "act": "Keywest",
         "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Fake Saint",
-        "venue": "Academy 2",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -354,7 +322,7 @@
     {
         "date": "2026-10-02",
         "act": "The Blow Monkeys",
-        "venue": "Opium",
+        "venue": "Whelans",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -396,6 +364,38 @@
         "act": "Sebastian Schub",
         "venue": "Academy 2",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-03",
+        "act": "Baest",
+        "venue": "The Sound House",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-03",
+        "act": "Whole Lotta Zepp",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-03",
+        "act": "The Amazons",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-03",
+        "act": "The Molotovs",
+        "venue": "The Button Factory",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
