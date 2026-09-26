@@ -1,85 +1,5 @@
 [
     {
-        "date": "2026-09-25",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Genitorturers",
-        "venue": "The Grand Social",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Fake Saint",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Lemoncello",
-        "venue": "The Button Factory",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Liana Flores",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Unique Freaks",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Keywest",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Dead Calm - Sign Crushes Motorist",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "Music of Nina Simone (Karen Underwood) - Lucan - Sept 25",
-        "venue": "Courtney's of Lucan",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-25",
-        "act": "William Tyler",
-        "venue": "BELLOBAR",
-        "genre": "Jazz",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-09-26",
         "act": "Benediction",
         "venue": "The Grand Social",
@@ -396,6 +316,86 @@
         "act": "RuntheRed",
         "venue": "Upstairs At Whelans",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-03",
+        "act": "Sharon Shannon - Killiney - Oct 3",
+        "venue": "Fitzpatrick Castle Hotel",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-04",
+        "act": "World of Hans Zimmer - Ticket & Hotel Experience",
+        "venue": "3Arena",
+        "genre": "Music",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-04",
+        "act": "Matt Hansen: the Orchid Tour",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-04",
+        "act": "Nicotine Dolls",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-04",
+        "act": "Take It To the Limit - a Celebration of the Eagles",
+        "venue": "Vicar Street",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-05",
+        "act": "Fear Factory",
+        "venue": "The Academy",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-05",
+        "act": "The Pussycat Dolls: PCD FOREVER TOUR",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-05",
+        "act": "the olllam",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-05",
+        "act": "Pub Choir- Just Think About It",
+        "venue": "Vicar Street",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-06",
+        "act": "Sam Tompkins",
+        "venue": "The Grand Social",
+        "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
     }
