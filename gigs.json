@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-09-26",
-        "act": "Benediction",
-        "venue": "The Grand Social",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-26",
-        "act": "Westlife 25 - The Anniversary World Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-26",
-        "act": "dead calm",
-        "venue": "Opium",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-26",
-        "act": "Dar Williams",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-26",
-        "act": "Sixpence None the Richer",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-09-26",
-        "act": "Music of Nina Simone (Karen Underwood) - Swords - Sept 26",
-        "venue": "Peacocks Bar & Lounge",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-27",
         "act": "Holy Holy: the Final Tour - a Celebration of Bowie",
         "venue": "The Academy",
@@ -396,6 +348,54 @@
         "act": "Sam Tompkins",
         "venue": "The Grand Social",
         "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-06",
+        "act": "The Hu",
+        "venue": "3Olympia Theatre",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-06",
+        "act": "54 Ultra",
+        "venue": "Green Room at The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-06",
+        "act": "Eric Steckel",
+        "venue": "Whelans",
+        "genre": "Blues",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-06",
+        "act": "Tilt #42",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-06",
+        "act": "Jared Benjamin",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-07",
+        "act": "Cabaret Voltaire",
+        "venue": "The Academy",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
