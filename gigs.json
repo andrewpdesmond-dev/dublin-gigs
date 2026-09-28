@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-09-27",
-        "act": "Holy Holy: the Final Tour - a Celebration of Bowie",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-27",
-        "act": "Joe Jackson - Hope and Fury Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-27",
-        "act": "Lucy Bedroque",
-        "venue": "Opium",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-27",
-        "act": "Curiosity Shop",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-28",
         "act": "Holy Holy: the Final Tour - a Celebration of Bowie",
         "venue": "The Academy",
@@ -395,6 +363,38 @@
         "date": "2026-10-07",
         "act": "Cabaret Voltaire",
         "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-08",
+        "act": "Tenside X Aurorawave",
+        "venue": "The Grand Social",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-08",
+        "act": "Pet Needs",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-08",
+        "act": "Crash Test Dummies",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-08",
+        "act": "DICE",
+        "venue": "Upstairs At Whelans",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
