@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-09-28",
-        "act": "Holy Holy: the Final Tour - a Celebration of Bowie",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-28",
-        "act": "Matt Maeson - Watch My Step",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-09-28",
-        "act": "Lilyisthatyou - the Flowers Have Feelings Tour",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-29",
         "act": "(Hed) P.E. & Cold",
         "venue": "Opium",
@@ -398,5 +374,29 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "SIX60",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "The Reytons",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "V.I.C.",
+        "venue": "Academy 2",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
