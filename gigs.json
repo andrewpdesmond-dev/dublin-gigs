@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-09-29",
-        "act": "(Hed) P.E. & Cold",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-29",
-        "act": "10 Years of 6LACK Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-09-29",
-        "act": "Ella Mai - Do You Still Love Me? Tour",
-        "venue": "Vicar Street",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-09-30",
         "act": "Yonaka",
         "venue": "Green Room at The Academy",
@@ -313,17 +289,17 @@
     },
     {
         "date": "2026-10-06",
-        "act": "Eric Steckel",
-        "venue": "Whelans",
-        "genre": "Blues",
+        "act": "Tilt #42",
+        "venue": "The Button Factory",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     },
     {
         "date": "2026-10-06",
-        "act": "Tilt #42",
-        "venue": "The Button Factory",
-        "genre": "Rock",
+        "act": "Eric Steckel",
+        "venue": "Whelans",
+        "genre": "Blues",
         "price": "Check Site",
         "status": "Available"
     },
@@ -398,5 +374,29 @@
         "genre": "Hip-Hop/Rap",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "Ibibio Sound Machine",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "Chris Cresham",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "Cinder Well",
+        "venue": "BELLOBAR",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
