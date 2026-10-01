@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-09-30",
-        "act": "Yonaka",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-30",
-        "act": "The Tumbling Paddies",
-        "venue": "3Olympia Theatre",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-30",
-        "act": "Alela Diane",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-09-30",
-        "act": "Lute",
-        "venue": "The Grand Social",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-09-30",
-        "act": "Rhiannon Giddens",
-        "venue": "Vicar Street",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-01",
         "act": "DJ Meredith Marks",
         "venue": "Green Room at The Academy",
@@ -325,7 +285,7 @@
         "venue": "The Grand Social",
         "genre": "Metal",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-10-08",
@@ -356,6 +316,14 @@
         "act": "SIX60",
         "venue": "The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "The Wran",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     },
@@ -398,5 +366,37 @@
         "genre": "Country",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "The Bluetones",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-09",
+        "act": "John Craigie",
+        "venue": "The Sound House",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-10",
+        "act": "Gilbert O'Sullivan",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-10",
+        "act": "Laura Elizabeth Hughes",
+        "venue": "The Unitarian Church",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
