@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-10-01",
-        "act": "DJ Meredith Marks",
-        "venue": "Green Room at The Academy",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-01",
-        "act": "Ruel - Kicking & Screaming UK + EU Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-01",
-        "act": "Alice Costelloe",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-01",
-        "act": "Anuv Jain",
-        "venue": "The Academy",
-        "genre": "World",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-02",
         "act": "Queen of the Night - A Tribute To Whitney Houston",
         "venue": "3Olympia Theatre",
@@ -398,5 +366,37 @@
         "genre": "Folk",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-10",
+        "act": "Joyce Manor",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-10",
+        "act": "The Live Last Waltz",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-10",
+        "act": "Jake Xerxes Fussell",
+        "venue": "The Button Factory",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-11",
+        "act": "Violet Grohl - Be Sweet To Me Tour",
+        "venue": "Green Room at The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
