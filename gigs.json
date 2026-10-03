@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-10-02",
-        "act": "Queen of the Night - A Tribute To Whitney Houston",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-02",
-        "act": "The Blow Monkeys",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-02",
-        "act": "CASPER WALSH - Hustler Boogie Tour",
-        "venue": "Soho Dublin",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-02",
-        "act": "Robyn Hitchcock",
-        "venue": "The Sugar Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-02",
-        "act": "Diveboy",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-02",
-        "act": "Paddy Casey Live in Lucan - Oct 2",
-        "venue": "Courtney's of Lucan",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-03",
         "act": "Sebastian Schub",
         "venue": "Academy 2",
@@ -93,7 +45,7 @@
         "venue": "The Unitarian Church",
         "genre": "Rock",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-10-03",
@@ -396,6 +348,54 @@
         "act": "Violet Grohl - Be Sweet To Me Tour",
         "venue": "Green Room at The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-11",
+        "act": "Midnight Til Morning",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-11",
+        "act": "honestav",
+        "venue": "The Button Factory",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-11",
+        "act": "Shelf Lives",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-12",
+        "act": "Caitlin Cook: the Writing On the Stall",
+        "venue": "The Sugar Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-12",
+        "act": "Arab Strap",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-12",
+        "act": "Morcheeba",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     }
