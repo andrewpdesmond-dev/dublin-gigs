@@ -1,85 +1,5 @@
 [
     {
-        "date": "2026-10-03",
-        "act": "Sebastian Schub",
-        "venue": "Academy 2",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "Baest",
-        "venue": "The Sound House",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "Whole Lotta Zepp",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "The Amazons",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "The Molotovs",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "Jamie Grey",
-        "venue": "The Unitarian Church",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "Nicotine Dolls",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "Carla's Dreams",
-        "venue": "The Academy",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "RuntheRed",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-03",
-        "act": "Sharon Shannon - Killiney - Oct 3",
-        "venue": "Fitzpatrick Castle Hotel",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-04",
         "act": "World of Hans Zimmer - Ticket & Hotel Experience",
         "venue": "3Arena",
@@ -394,6 +314,86 @@
     {
         "date": "2026-10-12",
         "act": "Morcheeba",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-13",
+        "act": "F3miii",
+        "venue": "Green Room at The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-13",
+        "act": "The Wran",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-13",
+        "act": "Heidi Curtis",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-13",
+        "act": "Party 101 with DJ Matt Bennett",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-14",
+        "act": "Sol and The Gang",
+        "venue": "The Button Factory",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-14",
+        "act": "Issue.09 - Peer Pleasure / Tina Sandwich / Rizla Silvers",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-14",
+        "act": "Mercury Rev",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-15",
+        "act": "Lewis Doyle Singer",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-15",
+        "act": "SMO",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-15",
+        "act": "Party 101 with DJ Matt Bennett",
         "venue": "Vicar Street",
         "genre": "Dance/Electronic",
         "price": "Check Site",
