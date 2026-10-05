@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-10-04",
-        "act": "World of Hans Zimmer - Ticket & Hotel Experience",
-        "venue": "3Arena",
-        "genre": "Music",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-04",
-        "act": "Matt Hansen: the Orchid Tour",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-04",
-        "act": "Nicotine Dolls",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-04",
-        "act": "Take It To the Limit - a Celebration of the Eagles",
-        "venue": "Vicar Street",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-05",
         "act": "Fear Factory",
         "venue": "The Academy",
@@ -396,6 +364,38 @@
         "act": "Party 101 with DJ Matt Bennett",
         "venue": "Vicar Street",
         "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-15",
+        "act": "Sports",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-16",
+        "act": "Michael McGovern",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-16",
+        "act": "The Byrne Brothers",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-16",
+        "act": "Angine de Poitrine",
+        "venue": "Vicar Street",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
