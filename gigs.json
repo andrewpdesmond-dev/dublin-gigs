@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-10-05",
-        "act": "Fear Factory",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-05",
-        "act": "The Pussycat Dolls: PCD FOREVER TOUR",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-05",
-        "act": "the olllam",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-05",
-        "act": "Pub Choir- Just Think About It",
-        "venue": "Vicar Street",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-06",
         "act": "Sam Tompkins",
         "venue": "The Grand Social",
@@ -395,6 +363,38 @@
         "date": "2026-10-16",
         "act": "Angine de Poitrine",
         "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-16",
+        "act": "Rob Lamberti Presents Perfectly George",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-16",
+        "act": "Cassius",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Chris Watson",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Winyah",
+        "venue": "Academy 2",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
