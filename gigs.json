@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-10-06",
-        "act": "Sam Tompkins",
-        "venue": "The Grand Social",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-06",
-        "act": "The Hu",
-        "venue": "3Olympia Theatre",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-06",
-        "act": "54 Ultra",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-06",
-        "act": "Tilt #42",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-06",
-        "act": "Eric Steckel",
-        "venue": "Whelans",
-        "genre": "Blues",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-06",
-        "act": "Jared Benjamin",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-07",
         "act": "Cabaret Voltaire",
         "venue": "The Academy",
@@ -396,6 +348,54 @@
         "act": "Winyah",
         "venue": "Academy 2",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Bronagh Gallagher",
+        "venue": "Ambassador Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "The Rock Orchestra: Arena of Fire",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "ARLO PARKS - DESIRE TOUR",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Tigercub",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Declan O'Rourke",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Rob Lamberti Presents Perfectly George",
+        "venue": "3Olympia Theatre",
+        "genre": "Undefined",
         "price": "Check Site",
         "status": "Available"
     }
