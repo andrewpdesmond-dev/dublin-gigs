@@ -1,13 +1,5 @@
 [
     {
-        "date": "2026-10-07",
-        "act": "Cabaret Voltaire",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-08",
         "act": "Tenside X Aurorawave",
         "venue": "The Grand Social",
@@ -396,6 +388,14 @@
         "act": "Rob Lamberti Presents Perfectly George",
         "venue": "3Olympia Theatre",
         "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-17",
+        "act": "Cry Before Dawn",
+        "venue": "Whelans",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
