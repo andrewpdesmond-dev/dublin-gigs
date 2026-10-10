@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-10-09",
-        "act": "SIX60",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "The Wran",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "The Reytons",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "V.I.C.",
-        "venue": "Academy 2",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "Ibibio Sound Machine",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "Chris Cresham",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "Cinder Well",
-        "venue": "BELLOBAR",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "The Bluetones",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-09",
-        "act": "John Craigie",
-        "venue": "The Sound House",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-10",
         "act": "Gilbert O'Sullivan",
         "venue": "3Arena",
@@ -400,11 +328,75 @@
         "status": "Available"
     },
     {
-        "date": "2026-10-09",
-        "act": "Wed 14 Oct \u2013 Banquet",
-        "venue": "The Fighting Cocks, Kingston",
-        "genre": "Indie/Alt",
-        "price": "See Nialler9",
-        "status": "Check Site"
+        "date": "2026-10-18",
+        "act": "The Mountain Goats",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-19",
+        "act": "Father of Peace",
+        "venue": "Green Room at The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-19",
+        "act": "Talia Rae",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-20",
+        "act": "Starjunk 95",
+        "venue": "The Grand Social",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-20",
+        "act": "Autechre",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-21",
+        "act": "Manic Street Preachers",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-21",
+        "act": "Deaf Havana",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-22",
+        "act": "J. Cole: The Fall-Off Tour",
+        "venue": "3Arena",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-22",
+        "act": "Manic Street Preachers",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
