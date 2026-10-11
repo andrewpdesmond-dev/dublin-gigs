@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-10-10",
-        "act": "Gilbert O'Sullivan",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-10",
-        "act": "Laura Elizabeth Hughes",
-        "venue": "The Unitarian Church",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-10",
-        "act": "Joyce Manor",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-10",
-        "act": "The Live Last Waltz",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-10",
-        "act": "Jake Xerxes Fussell",
-        "venue": "The Button Factory",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-11",
         "act": "Violet Grohl - Be Sweet To Me Tour",
         "venue": "Green Room at The Academy",
@@ -395,6 +355,46 @@
         "date": "2026-10-22",
         "act": "Manic Street Preachers",
         "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-22",
+        "act": "1-800 GIRLs",
+        "venue": "The Sound House",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-22",
+        "act": "St. Paul and the Broken Bones",
+        "venue": "The Academy",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-22",
+        "act": "The Small Fortunes",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-23",
+        "act": "Allie X",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-23",
+        "act": "Schur: The No Schortcuts Tour",
+        "venue": "Green Room at The Academy",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
