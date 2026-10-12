@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-10-11",
-        "act": "Violet Grohl - Be Sweet To Me Tour",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-11",
-        "act": "Midnight Til Morning",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-11",
-        "act": "honestav",
-        "venue": "The Button Factory",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-11",
-        "act": "Shelf Lives",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-10-12",
         "act": "Caitlin Cook: the Writing On the Stall",
         "venue": "The Sugar Club",
@@ -395,6 +363,38 @@
         "date": "2026-10-23",
         "act": "Schur: The No Schortcuts Tour",
         "venue": "Green Room at The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-23",
+        "act": "Ezhel",
+        "venue": "Opium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-23",
+        "act": "Adult Leisure",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-23",
+        "act": "Levellers",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-23",
+        "act": "Elder Island",
+        "venue": "The Button Factory",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
