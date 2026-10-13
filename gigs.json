@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-10-12",
-        "act": "Caitlin Cook: the Writing On the Stall",
-        "venue": "The Sugar Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-12",
-        "act": "Arab Strap",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-12",
-        "act": "Morcheeba",
-        "venue": "Vicar Street",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-13",
         "act": "F3miii",
         "venue": "Green Room at The Academy",
@@ -398,5 +374,29 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-10-24",
+        "act": "Jazzy - Peace & Patience",
+        "venue": "3Arena",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-24",
+        "act": "Fya Fox",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-24",
+        "act": "The Awning",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
