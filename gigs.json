@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-10-13",
-        "act": "F3miii",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-13",
-        "act": "The Wran",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-13",
-        "act": "Heidi Curtis",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-13",
-        "act": "Party 101 with DJ Matt Bennett",
-        "venue": "Vicar Street",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-14",
         "act": "Sol and The Gang",
         "venue": "The Button Factory",
@@ -398,5 +366,37 @@
         "genre": "Folk",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-24",
+        "act": "Overpass",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-24",
+        "act": "TOMORA",
+        "venue": "National Stadium",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-24",
+        "act": "Shed Seven",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-25",
+        "act": "Duke Dumont",
+        "venue": "3Arena",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
