@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-10-14",
-        "act": "Sol and The Gang",
-        "venue": "The Button Factory",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-14",
-        "act": "Issue.09 - Peer Pleasure / Tina Sandwich / Rizla Silvers",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-14",
-        "act": "Mercury Rev",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-15",
         "act": "Lewis Doyle Singer",
         "venue": "The Academy",
@@ -224,6 +200,14 @@
         "status": "Available"
     },
     {
+        "date": "2026-10-19",
+        "act": "Talking Reds: Ray Houghton and Mark Lawrenson",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
         "date": "2026-10-20",
         "act": "Starjunk 95",
         "venue": "The Grand Social",
@@ -396,6 +380,22 @@
         "act": "Duke Dumont",
         "venue": "3Arena",
         "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-25",
+        "act": "2manydjs",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-25",
+        "act": "Thumper - the Final Show",
+        "venue": "The Button Factory",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
