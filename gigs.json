@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-10-16",
-        "act": "Michael McGovern",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-16",
-        "act": "The Byrne Brothers",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-16",
-        "act": "Angine de Poitrine",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-16",
-        "act": "Rob Lamberti Presents Perfectly George",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-16",
-        "act": "Cassius",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-17",
         "act": "Chris Watson",
         "venue": "The Button Factory",
@@ -396,6 +356,46 @@
         "act": "Boney M",
         "venue": "National Stadium",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-25",
+        "act": "TEED",
+        "venue": "The Workmans Club",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-26",
+        "act": "Macklemore & Friends: Free Palestine Tour",
+        "venue": "3Arena",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-26",
+        "act": "Freya Skye - Stars Align Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-26",
+        "act": "Grace Gachot",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-26",
+        "act": "ear",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     }
