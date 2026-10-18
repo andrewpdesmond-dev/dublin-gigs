@@ -1,93 +1,5 @@
 [
     {
-        "date": "2026-10-17",
-        "act": "Chris Watson",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Winyah",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Bronagh Gallagher",
-        "venue": "Ambassador Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "The Rock Orchestra: Arena of Fire",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "ARLO PARKS - DESIRE TOUR",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Tigercub",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Declan O'Rourke",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Rob Lamberti Presents Perfectly George",
-        "venue": "3Olympia Theatre",
-        "genre": "Undefined",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Cry Before Dawn",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "The 4 OF Us - Swords - Oct 17",
-        "venue": "Peacocks Bar & Lounge",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-17",
-        "act": "Peter M. Smith with Blackrose - Lucan - Oct 17",
-        "venue": "Courtney's of Lucan",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-18",
         "act": "Dan Whitlam",
         "venue": "Academy 2",
@@ -396,6 +308,94 @@
         "act": "ear",
         "venue": "The Button Factory",
         "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-27",
+        "act": "Dizzee Rascal // We Want Bass Tour // Dublin",
+        "venue": "The Academy",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-27",
+        "act": "Asher White",
+        "venue": "The Grand Social",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-27",
+        "act": "Brandon Flowers",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-27",
+        "act": "Therapy Horse",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-27",
+        "act": "Delivery",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-28",
+        "act": "The Strokes - Reality Awaits",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-28",
+        "act": "Antony Szmierek",
+        "venue": "The Button Factory",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-28",
+        "act": "Paahto & The Bull",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-28",
+        "act": "Josie Edwards",
+        "venue": "BELLOBAR",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-28",
+        "act": "A New Local Hero Finale",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Archspire",
+        "venue": "The Academy",
+        "genre": "Metal",
         "price": "Check Site",
         "status": "Available"
     }
