@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-10-18",
-        "act": "Dan Whitlam",
-        "venue": "Academy 2",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-18",
-        "act": "Melanie C",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-18",
-        "act": "The Mountain Goats",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-19",
         "act": "Father of Peace",
         "venue": "Green Room at The Academy",
@@ -396,6 +372,30 @@
         "act": "Archspire",
         "venue": "The Academy",
         "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Saint Levant - AFANDI WORLD TOUR",
+        "venue": "National Stadium",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Alex Cameron",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Foy Vance World Tour | 2026 & 2027",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
