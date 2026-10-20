@@ -1,29 +1,5 @@
 [
     {
-        "date": "2026-10-19",
-        "act": "Father of Peace",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-19",
-        "act": "Talia Rae",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-19",
-        "act": "Talking Reds: Ray Houghton and Mark Lawrenson",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-20",
         "act": "Starjunk 95",
         "venue": "The Grand Social",
@@ -41,16 +17,16 @@
     },
     {
         "date": "2026-10-21",
-        "act": "Manic Street Preachers",
-        "venue": "3Olympia Theatre",
+        "act": "Deaf Havana",
+        "venue": "Green Room at The Academy",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     },
     {
         "date": "2026-10-21",
-        "act": "Deaf Havana",
-        "venue": "The Academy",
+        "act": "Manic Street Preachers",
+        "venue": "3Olympia Theatre",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -117,7 +93,7 @@
         "venue": "Opium",
         "genre": "Hip-Hop/Rap",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-10-23",
@@ -396,6 +372,30 @@
         "act": "Foy Vance World Tour | 2026 & 2027",
         "venue": "3Olympia Theatre",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Dylan Flynn & the Dead Poets",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Kapayja",
+        "venue": "Ballroom AT Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Takuya Nakamura: Live",
+        "venue": "Opium",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     }
