@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-10-20",
-        "act": "Starjunk 95",
-        "venue": "The Grand Social",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-20",
-        "act": "Autechre",
-        "venue": "Vicar Street",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-21",
         "act": "Deaf Havana",
         "venue": "Green Room at The Academy",
@@ -396,6 +380,22 @@
         "act": "Takuya Nakamura: Live",
         "venue": "Opium",
         "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Gurriers",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Mt Jones",
+        "venue": "Whelans",
+        "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
     }
