@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-10-21",
-        "act": "Deaf Havana",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-21",
-        "act": "Manic Street Preachers",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-22",
         "act": "J. Cole: The Fall-Off Tour",
         "venue": "3Arena",
@@ -66,7 +50,7 @@
     {
         "date": "2026-10-23",
         "act": "Schur: The No Schortcuts Tour",
-        "venue": "Green Room at The Academy",
+        "venue": "Academy 2",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -396,6 +380,22 @@
         "act": "Mt Jones",
         "venue": "Whelans",
         "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-29",
+        "act": "Ashley Campbell",
+        "venue": "The Sugar Club",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "The Script - The Man In The Arena Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
