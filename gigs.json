@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-10-22",
-        "act": "J. Cole: The Fall-Off Tour",
-        "venue": "3Arena",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-22",
-        "act": "Manic Street Preachers",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-22",
-        "act": "1-800 GIRLs",
-        "venue": "The Sound House",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-22",
-        "act": "St. Paul and the Broken Bones",
-        "venue": "The Academy",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-22",
-        "act": "The Small Fortunes",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-23",
         "act": "Allie X",
         "venue": "The Academy",
@@ -396,6 +356,46 @@
         "act": "The Script - The Man In The Arena Tour",
         "venue": "3Arena",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "beaux",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "Smash Hits",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "And So I Watch You From Afar & Caspian",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "Mykki Blanco",
+        "venue": "The Sound House",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "Sadhbh Keane",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
