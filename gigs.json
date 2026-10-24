@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-10-23",
-        "act": "Allie X",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-23",
-        "act": "Schur: The No Schortcuts Tour",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-23",
-        "act": "Ezhel",
-        "venue": "Opium",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-23",
-        "act": "Adult Leisure",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-23",
-        "act": "Levellers",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-23",
-        "act": "Elder Island",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-24",
         "act": "Jazzy - Peace & Patience",
         "venue": "3Arena",
@@ -395,6 +347,54 @@
         "date": "2026-10-30",
         "act": "Sadhbh Keane",
         "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "Gearoid McCarthy",
+        "venue": "Maldron Hotel Tallaght",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "Nick Hakim",
+        "venue": "The Workmans Club",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
+        "act": "JERRY FISH - Swords - Oct 30",
+        "venue": "Peacocks Bar & Lounge",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "The Script - The Man In The Arena Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "Transvision Vamp",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "Matthew Mole",
+        "venue": "Green Room at The Academy",
         "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
