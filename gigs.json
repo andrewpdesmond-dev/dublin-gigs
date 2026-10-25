@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-10-24",
-        "act": "Jazzy - Peace & Patience",
-        "venue": "3Arena",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-24",
-        "act": "Fya Fox",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-24",
-        "act": "The Awning",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-24",
-        "act": "Overpass",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-24",
-        "act": "TOMORA",
-        "venue": "National Stadium",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-24",
-        "act": "Shed Seven",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-25",
         "act": "Duke Dumont",
         "venue": "3Arena",
@@ -396,6 +348,54 @@
         "act": "Matthew Mole",
         "venue": "Green Room at The Academy",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "Kerbdog - On the Turn 30 Years",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "The Sentimental Tourists",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "Josiah and the Bonnevilles",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-31",
+        "act": "Panchiko",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-01",
+        "act": "Stevie Wonder: Songs In The Key of Life Performances",
+        "venue": "3Arena",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-01",
+        "act": "Gurriers",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
