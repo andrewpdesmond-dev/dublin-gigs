@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-10-25",
-        "act": "Duke Dumont",
-        "venue": "3Arena",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "2manydjs",
-        "venue": "Vicar Street",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "Thumper - the Final Show",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "Ryan Beatty - Arms Over Armor Tour",
-        "venue": "Green Room at The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "Freya Skye - Stars Align Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "Girl In The Year Above",
-        "venue": "Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "Boney M",
-        "venue": "National Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-25",
-        "act": "TEED",
-        "venue": "The Workmans Club",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-26",
         "act": "Macklemore & Friends: Free Palestine Tour",
         "venue": "3Arena",
@@ -396,6 +332,70 @@
         "act": "Gurriers",
         "venue": "3Olympia Theatre",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-01",
+        "act": "Moon Walker",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-01",
+        "act": "Pebbledash",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-01",
+        "act": "Nirosta Steel",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-01",
+        "act": "Christy Moore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-02",
+        "act": "Korn + Architects + Youth Code",
+        "venue": "3Arena",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-02",
+        "act": "Alison Moyet",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-02",
+        "act": "Tortoise",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-02",
+        "act": "Jobi Riccio & Roesy",
+        "venue": "Upstairs At Whelans",
+        "genre": "Country",
         "price": "Check Site",
         "status": "Available"
     }
