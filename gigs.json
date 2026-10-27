@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-10-26",
-        "act": "Macklemore & Friends: Free Palestine Tour",
-        "venue": "3Arena",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-26",
-        "act": "Freya Skye - Stars Align Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-26",
-        "act": "Grace Gachot",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-26",
-        "act": "ear",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-27",
         "act": "Dizzee Rascal // We Want Bass Tour // Dublin",
         "venue": "The Academy",
@@ -396,6 +364,38 @@
         "act": "Jobi Riccio & Roesy",
         "venue": "Upstairs At Whelans",
         "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-02",
+        "act": "Tommy Emmanuel, CGP -  Living In The Light Tour",
+        "venue": "Vicar Street",
+        "genre": "Jazz",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-03",
+        "act": "Papa Roach",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-03",
+        "act": "Yaelokre",
+        "venue": "The Academy",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-03",
+        "act": "Jack Savoretti - We Will Always Be the Way We Were",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
