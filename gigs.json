@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-10-28",
-        "act": "The Strokes - Reality Awaits",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-28",
-        "act": "Antony Szmierek",
-        "venue": "The Button Factory",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-28",
-        "act": "Paahto & The Bull",
-        "venue": "Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-28",
-        "act": "Josie Edwards",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-28",
-        "act": "A New Local Hero Finale",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-29",
         "act": "Archspire",
         "venue": "The Academy",
@@ -129,6 +89,14 @@
     },
     {
         "date": "2026-10-30",
+        "act": "And So I Watch You From Afar & Caspian",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-10-30",
         "act": "beaux",
         "venue": "Academy 2",
         "genre": "Rock",
@@ -142,14 +110,6 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "And So I Watch You From Afar & Caspian",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
     },
     {
         "date": "2026-10-30",
@@ -396,6 +356,46 @@
         "act": "Dexys",
         "venue": "3Olympia Theatre",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-04",
+        "act": "Hail the Sun",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-04",
+        "act": "Pye Corner Audio",
+        "venue": "The Workmans Club",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-04",
+        "act": "Momo Boyd",
+        "venue": "The Sugar Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-04",
+        "act": "Sons of Legion - Sons To Sol World Tour",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "Cody Johnson",
+        "venue": "3Arena",
+        "genre": "Country",
         "price": "Check Site",
         "status": "Available"
     }
