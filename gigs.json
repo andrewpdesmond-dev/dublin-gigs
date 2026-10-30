@@ -1,85 +1,5 @@
 [
     {
-        "date": "2026-10-29",
-        "act": "Archspire",
-        "venue": "The Academy",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Saint Levant - AFANDI WORLD TOUR",
-        "venue": "National Stadium",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Alex Cameron",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Foy Vance World Tour | 2026 & 2027",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Dylan Flynn & the Dead Poets",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Kapayja",
-        "venue": "Ballroom AT Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Takuya Nakamura: Live",
-        "venue": "Opium",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Gurriers",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Mt Jones",
-        "venue": "Whelans",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-29",
-        "act": "Ashley Campbell",
-        "venue": "The Sugar Club",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-30",
         "act": "The Script - The Man In The Arena Tour",
         "venue": "3Arena",
@@ -396,6 +316,86 @@
         "act": "Cody Johnson",
         "venue": "3Arena",
         "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "The Shamrocks",
+        "venue": "Ambassador Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "All Tvvins - IIVV 10 Year Anniversary Show",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "Swervedriver",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "tessio",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "Leslie Odom Jr. In Concert",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "The Mersey Beatles",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-05",
+        "act": "Ronan O'Snodaigh & Myles O'Reilly",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Ricky Warwick & The Fighting Hearts",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Sorcha Richardson",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Skindred - You Got This Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Metal",
         "price": "Check Site",
         "status": "Available"
     }
