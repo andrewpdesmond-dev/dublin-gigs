@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-10-30",
-        "act": "The Script - The Man In The Arena Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "And So I Watch You From Afar & Caspian",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "beaux",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "Smash Hits",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "Mykki Blanco",
-        "venue": "The Sound House",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "Sadhbh Keane",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "Gearoid McCarthy",
-        "venue": "Maldron Hotel Tallaght",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "Nick Hakim",
-        "venue": "The Workmans Club",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-10-30",
-        "act": "JERRY FISH - Swords - Oct 30",
-        "venue": "Peacocks Bar & Lounge",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-10-31",
         "act": "The Script - The Man In The Arena Tour",
         "venue": "3Arena",
@@ -396,6 +324,78 @@
         "act": "Skindred - You Got This Tour",
         "venue": "3Olympia Theatre",
         "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Power of Dreams",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Nerina Pallot",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Gently Tender",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Pelican + No Spill Blood",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Modeselektor (DJ Set)",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-06",
+        "act": "Dublon - Live Band Show",
+        "venue": "The Workmans Club",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-07",
+        "act": "Day Fever",
+        "venue": "The Academy",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-07",
+        "act": "Kibo - Kwengletaria: Ragamyff",
+        "venue": "Academy 2",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-07",
+        "act": "The Undertones: 50th Anniversary Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
