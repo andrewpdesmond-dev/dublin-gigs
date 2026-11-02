@@ -1,53 +1,5 @@
 [
     {
-        "date": "2026-11-01",
-        "act": "Stevie Wonder: Songs In The Key of Life Performances",
-        "venue": "3Arena",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-01",
-        "act": "Gurriers",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-01",
-        "act": "Moon Walker",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-01",
-        "act": "Pebbledash",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-01",
-        "act": "Nirosta Steel",
-        "venue": "BELLOBAR",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-01",
-        "act": "Christy Moore",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-02",
         "act": "Korn + Architects + Youth Code",
         "venue": "3Arena",
@@ -398,5 +350,53 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-11-07",
+        "act": "DJ Poolboi & Sunflwr",
+        "venue": "The Workmans Club",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-08",
+        "act": "Walk off the Earth",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-08",
+        "act": "MGNA Crrrta",
+        "venue": "The Grand Social",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-08",
+        "act": "Christy Moore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-08",
+        "act": "Robert Lester Folsom",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-09",
+        "act": "Niall Horan: Dinner Party Live On Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
