@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-11-02",
-        "act": "Korn + Architects + Youth Code",
-        "venue": "3Arena",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-02",
-        "act": "Alison Moyet",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-02",
-        "act": "Tortoise",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-02",
-        "act": "Jobi Riccio & Roesy",
-        "venue": "Upstairs At Whelans",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-02",
-        "act": "Tommy Emmanuel, CGP -  Living In The Light Tour",
-        "venue": "Vicar Street",
-        "genre": "Jazz",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-03",
         "act": "Papa Roach",
         "venue": "3Arena",
@@ -57,17 +17,17 @@
     },
     {
         "date": "2026-11-03",
-        "act": "Jack Savoretti - We Will Always Be the Way We Were",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
+        "act": "Chanel Beads",
+        "venue": "Opium",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     },
     {
         "date": "2026-11-03",
-        "act": "Chanel Beads",
-        "venue": "Opium",
-        "genre": "Dance/Electronic",
+        "act": "Jack Savoretti - We Will Always Be the Way We Were",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     },
@@ -398,5 +358,45 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-09",
+        "act": "Goldie Boutilier - Party 26 Tour",
+        "venue": "The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-09",
+        "act": "Underscores",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-09",
+        "act": "Little Angels",
+        "venue": "Opium",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-09",
+        "act": "deer park",
+        "venue": "BELLOBAR",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-09",
+        "act": "Mike Viola",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
