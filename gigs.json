@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-11-03",
-        "act": "Papa Roach",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-03",
-        "act": "Yaelokre",
-        "venue": "The Academy",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-03",
-        "act": "Chanel Beads",
-        "venue": "Opium",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-03",
-        "act": "Jack Savoretti - We Will Always Be the Way We Were",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-03",
-        "act": "Tortoise",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-03",
-        "act": "Sons of Legion - Sons To Sol World Tour",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-03",
-        "act": "bed",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-04",
         "act": "Dexys",
         "venue": "3Olympia Theatre",
@@ -237,7 +181,7 @@
         "venue": "The Academy",
         "genre": "Dance/Electronic",
         "price": "Check Site",
-        "status": "Available"
+        "status": "Sold Out"
     },
     {
         "date": "2026-11-07",
@@ -395,6 +339,62 @@
         "date": "2026-11-09",
         "act": "Mike Viola",
         "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "Niall Horan: Dinner Party Live On Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "RT\u00c9 Radio 1 Folk Awards 2026",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "Flawed Mangoes",
+        "venue": "The Sound House",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "Tilt #43",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "Hey, Nothing",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "Wendy Eisenberg",
+        "venue": "The Grand Social",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "MX LONELY",
+        "venue": "BELLOBAR",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
