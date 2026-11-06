@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-11-05",
-        "act": "Cody Johnson",
-        "venue": "3Arena",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "The Shamrocks",
-        "venue": "Ambassador Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "All Tvvins - IIVV 10 Year Anniversary Show",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "Emily Ann Roberts",
-        "venue": "Green Room at The Academy",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "Swervedriver",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "tessio",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "Leslie Odom Jr. In Concert",
-        "venue": "Bord Gais Energy Theatre",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "The Mersey Beatles",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-05",
-        "act": "Ronan O'Snodaigh & Myles O'Reilly",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-06",
         "act": "Ricky Warwick & The Fighting Hearts",
         "venue": "The Grand Social",
@@ -289,7 +217,7 @@
     },
     {
         "date": "2026-11-09",
-        "act": "The Little Angels",
+        "act": "Little Angels",
         "venue": "Opium",
         "genre": "Metal",
         "price": "Check Site",
@@ -385,6 +313,14 @@
     },
     {
         "date": "2026-11-11",
+        "act": "De Staat",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-11",
         "act": "Car Bomb",
         "venue": "Whelans",
         "genre": "Metal",
@@ -393,9 +329,73 @@
     },
     {
         "date": "2026-11-11",
-        "act": "De Staat",
-        "venue": "The Grand Social",
+        "act": "TopHouse",
+        "venue": "The Workmans Club",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-11",
+        "act": "Brennan Wedl",
+        "venue": "BELLOBAR",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-11",
+        "act": "The Stylistics",
+        "venue": "Vicar Street",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-12",
+        "act": "Igorrr",
+        "venue": "The Academy",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-12",
+        "act": "Niall Horan: Dinner Party Live On Tour",
+        "venue": "3Arena",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-12",
+        "act": "Mark Ambor",
+        "venue": "Green Room at The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-12",
+        "act": "The Fray: Autumn Light Tour",
+        "venue": "National Stadium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-12",
+        "act": "GB",
+        "venue": "BELLOBAR",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-12",
+        "act": "Brian Kennedy",
+        "venue": "Vicar Street",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
