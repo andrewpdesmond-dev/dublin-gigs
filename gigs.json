@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-11-06",
-        "act": "Ricky Warwick & The Fighting Hearts",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Sorcha Richardson",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Skindred - You Got This Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Power of Dreams",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Nerina Pallot",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Gently Tender",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Pelican + No Spill Blood",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Modeselektor (DJ Set)",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-06",
-        "act": "Dublon - Live Band Show",
-        "venue": "The Workmans Club",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-07",
         "act": "Day Fever",
         "venue": "The Academy",
@@ -201,6 +129,14 @@
     },
     {
         "date": "2026-11-09",
+        "act": "Niall Horan",
+        "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-09",
         "act": "Goldie Boutilier - Party 26 Tour",
         "venue": "The Academy",
         "genre": "Pop",
@@ -217,7 +153,7 @@
     },
     {
         "date": "2026-11-09",
-        "act": "Little Angels",
+        "act": "The Little Angels",
         "venue": "Opium",
         "genre": "Metal",
         "price": "Check Site",
@@ -246,6 +182,14 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-10",
+        "act": "Niall Horan",
+        "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
     },
     {
         "date": "2026-11-10",
@@ -396,6 +340,62 @@
         "act": "Brian Kennedy",
         "venue": "Vicar Street",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Master Boot Record & Fulci",
+        "venue": "The Academy",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Niall Horan: Dinner Party Live On Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Niall Horan",
+        "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Joyce Moreno",
+        "venue": "Ambassador Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Brian Fallon & the Painkillers - Not Bad for New Jersey Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Kayleigh Noble",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Ole 60 - Off the Grid Tour",
+        "venue": "Vicar Street",
+        "genre": "Country",
         "price": "Check Site",
         "status": "Available"
     }
