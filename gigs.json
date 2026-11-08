@@ -1,93 +1,5 @@
 [
     {
-        "date": "2026-11-07",
-        "act": "Day Fever",
-        "venue": "The Academy",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Kibo - Kwengletaria: Ragamyff",
-        "venue": "Academy 2",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "The Undertones: 50th Anniversary Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Basht.",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Boo Seeka",
-        "venue": "The Sound House",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "George Murphy & The Rising Sons \u2013 The Ultimate Session Tour 2026",
-        "venue": "Bonnington Hotel",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Elephant Sessions",
-        "venue": "Whelans",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Mark O'Donnell",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Quiet Light",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "Cat Power - the Greatest Tour",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-07",
-        "act": "DJ Poolboi & Sunflwr",
-        "venue": "The Workmans Club",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-08",
         "act": "Walk off the Earth",
         "venue": "Opium",
@@ -153,7 +65,7 @@
     },
     {
         "date": "2026-11-09",
-        "act": "The Little Angels",
+        "act": "Little Angels",
         "venue": "Opium",
         "genre": "Metal",
         "price": "Check Site",
@@ -396,6 +308,94 @@
         "act": "Ole 60 - Off the Grid Tour",
         "venue": "Vicar Street",
         "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Widowspeak",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-13",
+        "act": "Poison Ru\u00efn",
+        "venue": "Lost Lane",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "Harvest: a Tribute To Neil Young",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "Swapmeet",
+        "venue": "Ballroom AT Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "Bec O'Malley",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "Shobsy",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "sundots",
+        "venue": "The Grand Social",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "Search Results",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-14",
+        "act": "Gotts Street Park",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-15",
+        "act": "D\u00e9yyess",
+        "venue": "Academy 2",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-15",
+        "act": "Bassvictim",
+        "venue": "Opium",
+        "genre": "Dance/Electronic",
         "price": "Check Site",
         "status": "Available"
     }
