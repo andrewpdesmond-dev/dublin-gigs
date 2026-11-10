@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-11-09",
-        "act": "Niall Horan: Dinner Party Live On Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-09",
-        "act": "Niall Horan",
-        "venue": "3Arena - Dublin",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-09",
-        "act": "Goldie Boutilier - Party 26 Tour",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-09",
-        "act": "Underscores",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-09",
-        "act": "Little Angels",
-        "venue": "Opium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-09",
-        "act": "deer park",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-09",
-        "act": "Mike Viola",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-10",
         "act": "Niall Horan: Dinner Party Live On Tour",
         "venue": "3Arena",
@@ -329,17 +273,17 @@
     },
     {
         "date": "2026-11-14",
-        "act": "sundots",
-        "venue": "The Grand Social",
-        "genre": "Pop",
+        "act": "Search Results",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     },
     {
         "date": "2026-11-14",
-        "act": "Search Results",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
+        "act": "sundots",
+        "venue": "The Grand Social",
+        "genre": "Pop",
         "price": "Check Site",
         "status": "Available"
     },
@@ -398,5 +342,61 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
+        "venue": "3Arena",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "Don Toliver",
+        "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "Kiss Facility",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "Julia Wolf",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "@ (pronounced 'at')",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "Christy Moore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "Diana Arbenina",
+        "venue": "The Academy",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
