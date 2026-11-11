@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-11-10",
-        "act": "Niall Horan: Dinner Party Live On Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "Niall Horan",
-        "venue": "3Arena - Dublin",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "RT\u00c9 Radio 1 Folk Awards 2026",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "Flawed Mangoes",
-        "venue": "The Sound House",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "Tilt #43",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "Hey, Nothing",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "Wendy Eisenberg",
-        "venue": "The Grand Social",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-10",
-        "act": "MX LONELY",
-        "venue": "BELLOBAR",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-11",
         "act": "MUNA",
         "venue": "3Olympia Theatre",
@@ -156,14 +92,6 @@
         "act": "GB",
         "venue": "BELLOBAR",
         "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-12",
-        "act": "Brian Kennedy",
-        "venue": "Vicar Street",
-        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     },
@@ -396,6 +324,78 @@
         "act": "Diana Arbenina",
         "venue": "The Academy",
         "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Myles Smith: My Mess, My Heart, My Life. Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Jeff Tweedy: an Evening In Ireland with Jeff Tweedy",
+        "venue": "Ambassador Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Teenage Fanclub",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Ocean Colour Scene",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "MEEK",
+        "venue": "Green Room at The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Julia Wolf",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Ron Pope",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-17",
+        "act": "Wesghost - If It's Not Forever",
+        "venue": "The Workmans Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Montell Fish: The Nest Tour",
+        "venue": "National Stadium",
+        "genre": "R&B",
         "price": "Check Site",
         "status": "Available"
     }
