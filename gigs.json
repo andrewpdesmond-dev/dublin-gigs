@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-11-11",
-        "act": "MUNA",
-        "venue": "3Olympia Theatre",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-11",
-        "act": "MNEK - THE!! BULLDOZER!! TOUR!!",
-        "venue": "Green Room at The Academy",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-11",
-        "act": "De Staat",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-11",
-        "act": "Car Bomb",
-        "venue": "Whelans",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-11",
-        "act": "TopHouse",
-        "venue": "The Workmans Club",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-11",
-        "act": "Brennan Wedl",
-        "venue": "BELLOBAR",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-11",
-        "act": "The Stylistics",
-        "venue": "Vicar Street",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-12",
         "act": "Igorrr",
         "venue": "The Academy",
@@ -396,6 +340,62 @@
         "act": "Montell Fish: The Nest Tour",
         "venue": "National Stadium",
         "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Jungle",
+        "venue": "3Arena",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Rita Wilson",
+        "venue": "The Sugar Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Nicko McBrain - an Evening with Nicko McBrain",
+        "venue": "Ambassador Theatre",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Ocean Colour Scene",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "La Sonora Santanera | Dubl\u00edn",
+        "venue": "Soho Dublin",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Dylan Leblanc",
+        "venue": "The Sound House",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Rua R\u00ed",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
         "price": "Check Site",
         "status": "Available"
     }
