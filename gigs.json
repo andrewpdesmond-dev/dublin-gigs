@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-11-12",
-        "act": "Igorrr",
-        "venue": "The Academy",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-12",
-        "act": "Niall Horan: Dinner Party Live On Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-12",
-        "act": "Mark Ambor",
-        "venue": "Green Room at The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-12",
-        "act": "The Fray: Autumn Light Tour",
-        "venue": "National Stadium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-12",
-        "act": "GB",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-13",
         "act": "Master Boot Record & Fulci",
         "venue": "The Academy",
@@ -396,6 +356,46 @@
         "act": "Rua R\u00ed",
         "venue": "The Workmans Club",
         "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Bicurious",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Fat Dog",
+        "venue": "Opium",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "Essy Sparrow",
+        "venue": "Upstairs At Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-18",
+        "act": "LAST APOLLO",
+        "venue": "BELLOBAR",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-19",
+        "act": "Noah Kahan - The Great Divide Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
