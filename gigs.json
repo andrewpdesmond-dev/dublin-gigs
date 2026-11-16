@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-11-15",
-        "act": "D\u00e9yyess",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-15",
-        "act": "Bassvictim",
-        "venue": "Opium",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-15",
-        "act": "Clara Mann",
-        "venue": "The Sugar Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-15",
-        "act": "Sarah Julia",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-15",
-        "act": "From the Jam",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-11-16",
         "act": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
         "venue": "3Arena",
@@ -51,6 +11,14 @@
         "date": "2026-11-16",
         "act": "Don Toliver",
         "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-16",
+        "act": "Diana Arbenina",
+        "venue": "The Academy",
         "genre": "Other",
         "price": "Check Site",
         "status": "Available"
@@ -84,14 +52,6 @@
         "act": "Christy Moore",
         "venue": "Vicar Street",
         "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-16",
-        "act": "Diana Arbenina",
-        "venue": "The Academy",
-        "genre": "Other",
         "price": "Check Site",
         "status": "Available"
     },
@@ -396,6 +356,46 @@
         "act": "Justyna Steczkowska",
         "venue": "The Academy",
         "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-20",
+        "act": "Radie Peat",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-21",
+        "act": "Xentrix + Nervosa",
+        "venue": "Opium",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-21",
+        "act": "Noah Kahan - The Great Divide Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-21",
+        "act": "Noah Kahan",
+        "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-21",
+        "act": "Camille O'Sullivan: the Art of Falling Apart",
+        "venue": "3Olympia Theatre",
+        "genre": "Jazz",
         "price": "Check Site",
         "status": "Available"
     }
