@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-11-17",
-        "act": "Myles Smith: My Mess, My Heart, My Life. Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "Jeff Tweedy: an Evening In Ireland with Jeff Tweedy",
-        "venue": "Ambassador Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "Teenage Fanclub",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "Ocean Colour Scene",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "MEEK",
-        "venue": "Green Room at The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "Julia Wolf",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "Ron Pope",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-17",
-        "act": "Wesghost - If It's Not Forever",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-18",
         "act": "Montell Fish: The Nest Tour",
         "venue": "National Stadium",
@@ -170,7 +106,7 @@
     {
         "date": "2026-11-19",
         "act": "Chloe Slater",
-        "venue": "Green Room at The Academy",
+        "venue": "Academy 2",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -398,5 +334,69 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-11-21",
+        "act": "Chapterhouse - First Ever Irish Show",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Noah Kahan - The Great Divide Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Noah Kahan",
+        "venue": "3Arena - Dublin",
+        "genre": "Other",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Romes",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Shinedown: Dance, Kid, Dance Act II",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Haute & Freddy - Haute & Freddy's Big Disgrace Tour",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Anna Lapwood",
+        "venue": "Bord Gais Energy Theatre",
+        "genre": "Classical",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "LAVENDER",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
