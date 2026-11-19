@@ -1,112 +1,8 @@
 [
     {
-        "date": "2026-11-18",
-        "act": "Montell Fish: The Nest Tour",
-        "venue": "National Stadium",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Jungle",
-        "venue": "3Arena",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Rita Wilson",
-        "venue": "The Sugar Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Nicko McBrain - an Evening with Nicko McBrain",
-        "venue": "Ambassador Theatre",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Ocean Colour Scene",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "La Sonora Santanera | Dubl\u00edn",
-        "venue": "Soho Dublin",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Dylan Leblanc",
-        "venue": "The Sound House",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Rua R\u00ed",
-        "venue": "The Workmans Club",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Bicurious",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Fat Dog",
-        "venue": "Opium",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "Essy Sparrow",
-        "venue": "Upstairs At Whelans",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-18",
-        "act": "LAST APOLLO",
-        "venue": "BELLOBAR",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-19",
         "act": "Noah Kahan - The Great Divide Tour",
         "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-19",
-        "act": "Chloe Slater",
-        "venue": "Academy 2",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
@@ -386,7 +282,7 @@
     {
         "date": "2026-11-22",
         "act": "Anna Lapwood",
-        "venue": "Bord Gais Energy Theatre",
+        "venue": "Bord G\u00e1is Energy Theatre",
         "genre": "Classical",
         "price": "Check Site",
         "status": "Available"
@@ -398,5 +294,93 @@
         "genre": "Rock",
         "price": "Check Site",
         "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-22",
+        "act": "Wallflowers",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-23",
+        "act": "Phoebe Bridgers",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-23",
+        "act": "Urne",
+        "venue": "The Grand Social",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-23",
+        "act": "Shinedown: Dance, Kid, Dance Act II",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-23",
+        "act": "Zimmer90 - Arthouse Tour 2026",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-23",
+        "act": "Christy Moore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-24",
+        "act": "Phoebe Bridgers",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-24",
+        "act": "Harakiri for the Sky + Sunken",
+        "venue": "Opium",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-24",
+        "act": "Songer: What If I Say Tour?",
+        "venue": "The Academy",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-24",
+        "act": "Blossoms",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-24",
+        "act": "SPIKE FUCK",
+        "venue": "Upstairs At Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
     }
 ]
