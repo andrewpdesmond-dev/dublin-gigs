@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-11-20",
-        "act": "Cardinals",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "The Stunning",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "sace6",
-        "venue": "Academy 2",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "1000mods",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "Boko Yout",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "Nathan Johnston",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "Justyna Steczkowska",
-        "venue": "The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-20",
-        "act": "Radie Peat",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-21",
         "act": "Xentrix + Nervosa",
         "venue": "Opium",
@@ -217,7 +153,7 @@
     },
     {
         "date": "2026-11-22",
-        "act": "Wallflowers",
+        "act": "The Wallflowers",
         "venue": "Vicar Street",
         "genre": "Rock",
         "price": "Check Site",
@@ -378,6 +314,70 @@
     {
         "date": "2026-11-26",
         "act": "Electric Six",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-26",
+        "act": "nimino",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-26",
+        "act": "The Stunning",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-26",
+        "act": "Neoni",
+        "venue": "Green Room at The Academy",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-26",
+        "act": "Tol\u00fc Makay",
+        "venue": "The Sugar Club",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-26",
+        "act": "Jamie Fine",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-26",
+        "act": "Wilt",
+        "venue": "The Grand Social",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "nimino",
+        "venue": "The Button Factory",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "Eagles of Death Metal",
         "venue": "The Academy",
         "genre": "Rock",
         "price": "Check Site",
