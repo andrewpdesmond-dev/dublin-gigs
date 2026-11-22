@@ -1,101 +1,5 @@
 [
     {
-        "date": "2026-11-21",
-        "act": "Xentrix + Nervosa",
-        "venue": "Opium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Noah Kahan - The Great Divide Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Noah Kahan",
-        "venue": "3Arena - Dublin",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Camille O'Sullivan: the Art of Falling Apart",
-        "venue": "3Olympia Theatre",
-        "genre": "Jazz",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "This Is Lorelei",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Jamie McIntyre",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Mimi Lane",
-        "venue": "The Sugar Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Danny Griffiths",
-        "venue": "Curveball",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Therapy Horse",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Genevieve Stokes",
-        "venue": "The Unitarian Church",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Autumns",
-        "venue": "The Workmans Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-21",
-        "act": "Chapterhouse - First Ever Irish Show",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-22",
         "act": "Noah Kahan - The Great Divide Tour",
         "venue": "3Arena",
@@ -153,7 +57,7 @@
     },
     {
         "date": "2026-11-22",
-        "act": "The Wallflowers",
+        "act": "Wallflowers",
         "venue": "Vicar Street",
         "genre": "Rock",
         "price": "Check Site",
@@ -380,6 +284,102 @@
         "act": "Eagles of Death Metal",
         "venue": "The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "Telekura",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "The Fat Lady Sings",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "Blair Davie",
+        "venue": "Curveball",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "Knats",
+        "venue": "BELLOBAR",
+        "genre": "R&B",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "Bell X1",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "DJ Spiral - THE BOX ROOM - 4 Hour Vinyl Set",
+        "venue": "The Racket Space",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-27",
+        "act": "The Fat Lady Sings - Two Day Ticket",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "UB40 ft. Ali Campbell: Big Love Tour",
+        "venue": "3Arena",
+        "genre": "Reggae",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "The Chris Rea Experience - Chris Rea's Greatest Hits",
+        "venue": "Ambassador Theatre",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Dear Willow",
+        "venue": "Academy 2",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Dea Matrona",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Swae Lee - Same Difference Tour",
+        "venue": "3Olympia Theatre",
+        "genre": "Hip-Hop/Rap",
         "price": "Check Site",
         "status": "Available"
     }
