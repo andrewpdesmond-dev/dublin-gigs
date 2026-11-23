@@ -1,69 +1,5 @@
 [
     {
-        "date": "2026-11-22",
-        "act": "Noah Kahan - The Great Divide Tour",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "Noah Kahan",
-        "venue": "3Arena - Dublin",
-        "genre": "Other",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "Romes",
-        "venue": "Academy 2",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "Shinedown: Dance, Kid, Dance Act II",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "Haute & Freddy - Haute & Freddy's Big Disgrace Tour",
-        "venue": "The Button Factory",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "Anna Lapwood",
-        "venue": "Bord G\u00e1is Energy Theatre",
-        "genre": "Classical",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "LAVENDER",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-22",
-        "act": "Wallflowers",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-23",
         "act": "Phoebe Bridgers",
         "venue": "3Arena",
@@ -380,6 +316,70 @@
         "act": "Swae Lee - Same Difference Tour",
         "venue": "3Olympia Theatre",
         "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Stop Making Sense Live",
+        "venue": "The Button Factory",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Pixel Grip",
+        "venue": "The Workmans Club",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "The Fat Lady Sings",
+        "venue": "Whelans",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Bell X1",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "Mundy Live in Lucan - Nov 28",
+        "venue": "Courtney's of Lucan",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-28",
+        "act": "These Charming Men - Smiths and Morrissey Tribute Band ( Standing Gig )",
+        "venue": "Abbey Tavern",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-29",
+        "act": "Evergrey",
+        "venue": "Opium",
+        "genre": "Metal",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-29",
+        "act": "Mystery Jets",
+        "venue": "Green Room at The Academy",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
