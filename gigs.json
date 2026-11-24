@@ -1,45 +1,5 @@
 [
     {
-        "date": "2026-11-23",
-        "act": "Phoebe Bridgers",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-23",
-        "act": "Urne",
-        "venue": "The Grand Social",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-23",
-        "act": "Shinedown: Dance, Kid, Dance Act II",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-23",
-        "act": "Zimmer90 - Arthouse Tour 2026",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-23",
-        "act": "Christy Moore",
-        "venue": "Vicar Street",
-        "genre": "Folk",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-24",
         "act": "Phoebe Bridgers",
         "venue": "3Arena",
@@ -380,6 +340,54 @@
         "act": "Mystery Jets",
         "venue": "Green Room at The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-29",
+        "act": "Dylan John Thomas",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-29",
+        "act": "DakhaBrakha",
+        "venue": "The Button Factory",
+        "genre": "World",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-29",
+        "act": "Milo Korbenski",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-11-29",
+        "act": "Bell X1",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-30",
+        "act": "Interpol & Bloc Party Co-Headline Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-30",
+        "act": "Interpol",
+        "venue": "3Arena - Dublin",
+        "genre": "Alternative",
         "price": "Check Site",
         "status": "Available"
     }
