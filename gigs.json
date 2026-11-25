@@ -1,77 +1,5 @@
 [
     {
-        "date": "2026-11-24",
-        "act": "Phoebe Bridgers",
-        "venue": "3Arena",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "Harakiri for the Sky + Sunken",
-        "venue": "Opium",
-        "genre": "Metal",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "Songer: What If I Say Tour?",
-        "venue": "The Academy",
-        "genre": "Hip-Hop/Rap",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "Blossoms",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "SPIKE FUCK",
-        "venue": "Upstairs At Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "Drake Milligan - Tumbleweed World Tour",
-        "venue": "Vicar Street",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "Radio Free Alice",
-        "venue": "The Button Factory",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "Drake Milligan - Tumbleweed World Tour VIP Event",
-        "venue": "Vicar Street",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-24",
-        "act": "leenalchi",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
         "date": "2026-11-25",
         "act": "Eagles of Death Metal",
         "venue": "The Academy",
@@ -84,14 +12,6 @@
         "act": "Waylon Wyatt - Dustpiles World Tour",
         "venue": "3Olympia Theatre",
         "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-25",
-        "act": "Eloise",
-        "venue": "Academy 2",
-        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     },
@@ -388,6 +308,94 @@
         "act": "Interpol",
         "venue": "3Arena - Dublin",
         "genre": "Alternative",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-30",
+        "act": "Bleachers",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-11-30",
+        "act": "Christy Moore",
+        "venue": "Vicar Street",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+        "venue": "3Arena",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Bryson Tiller",
+        "venue": "3Arena - Dublin",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Nemzzz",
+        "venue": "The Academy",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Hans Williams",
+        "venue": "Academy 2",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "A Very Dublin Christmas: Rocky in Concert",
+        "venue": "RDS Simmonscourt",
+        "genre": "Family",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Jessie Ware: The Superbloom Tour 2026",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Cory Wong",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-01",
+        "act": "Liam O Maonlai & Ronan O Snodaigh",
+        "venue": "Whelans",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-02",
+        "act": "Placebo - 30th Anniversary Tour",
+        "venue": "3Arena",
+        "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
     }
