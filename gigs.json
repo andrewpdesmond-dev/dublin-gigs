@@ -1,37 +1,5 @@
 [
     {
-        "date": "2026-11-25",
-        "act": "Eagles of Death Metal",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-25",
-        "act": "Waylon Wyatt - Dustpiles World Tour",
-        "venue": "3Olympia Theatre",
-        "genre": "Country",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-25",
-        "act": "Paris Paloma",
-        "venue": "National Stadium",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-25",
-        "act": "Adult DVD",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-26",
         "act": "Electric Six",
         "venue": "The Academy",
@@ -395,6 +363,38 @@
         "date": "2026-12-02",
         "act": "Placebo - 30th Anniversary Tour",
         "venue": "3Arena",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-02",
+        "act": "Jessie Ware: The Superbloom Tour 2026",
+        "venue": "3Olympia Theatre",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-02",
+        "act": "Getdown Services",
+        "venue": "Vicar Street",
+        "genre": "Dance/Electronic",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-03",
+        "act": "Simple Things",
+        "venue": "The Button Factory",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-03",
+        "act": "Enter Shikari",
+        "venue": "The Academy",
         "genre": "Rock",
         "price": "Check Site",
         "status": "Available"
