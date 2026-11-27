@@ -1,61 +1,5 @@
 [
     {
-        "date": "2026-11-26",
-        "act": "Electric Six",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-26",
-        "act": "nimino",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-26",
-        "act": "The Stunning",
-        "venue": "3Olympia Theatre",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-26",
-        "act": "Neoni",
-        "venue": "Green Room at The Academy",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-26",
-        "act": "Tol\u00fc Makay",
-        "venue": "The Sugar Club",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-26",
-        "act": "Jamie Fine",
-        "venue": "The Workmans Club",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-26",
-        "act": "Wilt",
-        "venue": "The Grand Social",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
         "date": "2026-11-27",
         "act": "nimino",
         "venue": "The Button Factory",
@@ -396,6 +340,62 @@
         "act": "Enter Shikari",
         "venue": "The Academy",
         "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-03",
+        "act": "A Very Dublin Christmas: Merry Swiftmas",
+        "venue": "RDS Simmonscourt",
+        "genre": "Family",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-03",
+        "act": "Rin",
+        "venue": "Upstairs At Whelans",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-03",
+        "act": "Gareth: Halfway Home Tour 2026",
+        "venue": "Whelans",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-03",
+        "act": "Ethan Regan - Young Regan Tour",
+        "venue": "The Workmans Club",
+        "genre": "Folk",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "One Night In Nashville",
+        "venue": "Green Room at The Academy",
+        "genre": "Country",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "The Essential Phil Collins",
+        "venue": "Ambassador Theatre",
+        "genre": "Undefined",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "A Very Dublin Christmas: Love Actually in Concert",
+        "venue": "RDS Simmonscourt",
+        "genre": "Family",
         "price": "Check Site",
         "status": "Available"
     }
