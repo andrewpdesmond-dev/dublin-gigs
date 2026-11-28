@@ -1,70 +1,6 @@
 [
     {
         "date": "2026-11-27",
-        "act": "nimino",
-        "venue": "The Button Factory",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "Eagles of Death Metal",
-        "venue": "The Academy",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "Telekura",
-        "venue": "Upstairs At Whelans",
-        "genre": "Pop",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "The Fat Lady Sings",
-        "venue": "Whelans",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "Blair Davie",
-        "venue": "Curveball",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Sold Out"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "Knats",
-        "venue": "BELLOBAR",
-        "genre": "R&B",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "Bell X1",
-        "venue": "Vicar Street",
-        "genre": "Rock",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
-        "act": "DJ Spiral - THE BOX ROOM - 4 Hour Vinyl Set",
-        "venue": "The Racket Space",
-        "genre": "Dance/Electronic",
-        "price": "Check Site",
-        "status": "Available"
-    },
-    {
-        "date": "2026-11-27",
         "act": "The Fat Lady Sings - Two Day Ticket",
         "venue": "Whelans",
         "genre": "Rock",
@@ -398,5 +334,69 @@
         "genre": "Family",
         "price": "Check Site",
         "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "Enter Shikari",
+        "venue": "The Academy",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "Jamie Duffy",
+        "venue": "3Olympia Theatre",
+        "genre": "Classical",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "Florentenes",
+        "venue": "Curveball",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "Kormac",
+        "venue": "The Button Factory",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "David Kitt",
+        "venue": "Vicar Street",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "Genesis Owusu",
+        "venue": "Whelans",
+        "genre": "Hip-Hop/Rap",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "Jackie Evans",
+        "venue": "The Workmans Club",
+        "genre": "Pop",
+        "price": "Check Site",
+        "status": "Available"
+    },
+    {
+        "date": "2026-12-04",
+        "act": "how r u",
+        "venue": "BELLOBAR",
+        "genre": "Rock",
+        "price": "Check Site",
+        "status": "Sold Out"
     }
 ]
